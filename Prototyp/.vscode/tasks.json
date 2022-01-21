@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "Live Preview",
+			"args": [
+				"--verbose"
+			],
+			"problemMatcher": [],
+			"label": "Live Preview: Run Server --verbose function (old_index, new_index) {\n    // Shortcut helper to move item to end of array\n    if (-1 === new_index) {\n        new_index = this.length - 1;\n    }\n\n    if (new_index >= this.length) {\n        var k = new_index - this.length;\n        while (k-- + 1) {\n            this.push(undefined);\n        }\n    }\n    this.splice(new_index, 0, this.splice(old_index, 1)[0]);\n    return this; // for testing purposes\n}",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		}
+	]
+}
