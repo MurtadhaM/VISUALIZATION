@@ -9,23 +9,82 @@
 
 import json
 import requests
+
 from bs4 import BeautifulSoup
 import re
-import parse
 import json
 import bs4
-import js2py
 import pandas as pd
+# Tor Setup
+TOR_FLAG = False
 
+
+
+
+visited_urls = open('log/visited_urls', 'r').read().split('\n')
 
 # TODO
 # support sessions by checking for stored staff info and if they don't exist then get them from the website
 # For each web request, save the outputed HTML file for future use and mining and to also reduce network traffic
-
+# Tor connection option for the program to anonymize the traffic
 # setting up the session (visited urls ) 
 
-visited = open('log/visited_urls', 'r').read()
 
+
+
+
+# first start tor service on port 9050 by running the command:
+# tor SocksPort 9050
+def get_tor_session():
+    import requests
+    if TOR_FLAG:
+        
+        print('enabling tor')
+        # check if tor is running
+        try:
+            
+            session = requests.session()
+            
+            
+            # Tor uses the 9050 port as the default socks port
+            session.proxies = {'http':  'socks5://127.0.0.1:9050',
+                            'https': 'socks5://127.0.0.1:9050'}
+            
+            current_ip = session.request('GET', 'http://httpbin.org/ip').text
+            print('tor session established with IP ' + current_ip.split('origin')[1])
+            
+            return session 
+        except Exception as e:
+            print(e)
+            print('Error getting tor session')
+            print('Please make sure tor is running or disable the TOR_FLAG')
+            print('Exiting program')
+            exit()   
+        return session
+    else:
+        print('tor not enabled')
+        return requests
+    
+    
+    
+# Checking for tor connection 
+requests = get_tor_session()
+
+
+
+
+# TESTS
+
+def test_tor():
+    import requests
+    print('Original IP ADDRESS')
+    print(requests.get("http://httpbin.org/ip").text)
+    requests = get_tor_session()
+    print('Hidden IP ADDRESS')
+    print(requests.get("http://httpbin.org/ip").text)
+ 
+# testing tor connection 
+#test_tor()
 
 # HOW TO:
 # 
@@ -33,9 +92,6 @@ visited = open('log/visited_urls', 'r').read()
 # 2. for each link in the outputed json file run add_staff(link)
 # 3. Add an exit condition to the loop to stop the program when you have added all the staff members
 # 4. 
-
-
-
 
 
 
@@ -88,11 +144,14 @@ def setup_initial_links():
     print('links set up successfully')
     print('\n')
     
-    write_file('log/javascript_script.js', script)
+    
     
     
     write_file('log/staff_links.json', array)
-    return links
+    links_df = pd.DataFrame(columns=["name", "link"], data=links.items() , index=None)
+    links_df.to_csv('log/staff_links.csv', index=False)
+    
+    return links_df
 
 
 
@@ -101,7 +160,10 @@ def setup_initial_links():
 # To retrieve the staff members's information from the website
 def get_information(url):
     visited(url)
+    # making a request to the website
     response = requests.get(url)
+    # saving the log file
+    write_file('log/http_log.txt', response.text)
     soup = BeautifulSoup(response.text , 'lxml')
     department = soup.find('div', class_='connection-groups').text.strip()
     academic_interests = soup.find('div', class_='connection-links columns-2').text.strip()
@@ -126,29 +188,31 @@ def add_staff(url):
         print('Adding staff')
         new_staff = get_information(url)
         All_STAFF_INFOMATION.append(new_staff)
-        write_file('log/staff_info.json', All_STAFF_INFOMATION)
-        print('Staff added successfully')
-    except:
-        print('error adding a staff to csv') 
-
+        print(new_staff['name'] +  ' added successfully')
+        
+        
+    except Exception as e:
+        print('error adding staff')
+        print(e)
+    
 def write_file(filename, data):
     try:
-        with open(filename, 'w') as file:
+        with open(filename, 'a') as file:
             json.dump(data, file, indent=4)
-            print('File written successfully')
+            print(filename + ' written successfully')
     except Exception as e:
-        print('Error writing file')
+        print('Error writing ' + filename)
         print(e)
 
 
 def read_file(filename):
     try:
-        with open(filename, 'r') as file:
-            data = json.load(file)
-            print('File read successfully')
-            return data
+        data = open(filename, 'r').readlines()
+        print('File read successfully')
+        return data
     except Exception as e:
         print('Error reading file')
+        print(e)
 
 
 
@@ -168,11 +232,50 @@ def convert_to_json(collection):
         print(e) 
         
 
+def get_all_links(links, limit):
+    original_df = pd.read_csv('log/staff_info.csv')
+    for i in range(0, limit):
+        url = links[i]
+        visited(url)    
+        add_staff(url)
+        write_file('log/outputlog.txt', All_STAFF_INFOMATION)     
+        write_file('log/staff_info.json', All_STAFF_INFOMATION)
+        staff = {
+            
+        }
+
+            
+            
+        staff_info_df = pd.DataFrame(All_STAFF_INFOMATION)    
+        original_df =staff_info_df.append(original_df)   
+        print(All_STAFF_INFOMATION)
+        original_df.to_csv('log/staff_info.csv', index=False)
+
+        print(str(All_STAFF_INFOMATION.__len__() )+ ' staff members added')
 
 
-# FOR TESTING PURPOSES
-add_staff('https://pages.charlotte.edu/connections/people/aturovli')
-add_staff('https://pages.charlotte.edu/connections/people/fmili')
-print(All_STAFF_INFOMATION)
+
+# Filter the links to remove the ones that have already been visited
+
+def filter_visited():
+    links = pd.read_csv('log/staff_links.csv').get('value').astype(str).tolist()
+    filtered_links = []
+    for link in links:
+        if   link not in visited_urls:
+            filtered_links.append(link)   
+    return filtered_links
 
 
+
+print('Getting all the links')
+
+filtered_links = filter_visited()
+
+get_all_links(filtered_links, 5)
+
+# This is the main function that will be called to get the links to the staff members
+
+
+
+# to query information from the website with a stop condition
+#get_all_links(links.get('link'), 2)
