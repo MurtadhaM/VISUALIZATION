@@ -674,4 +674,1222 @@
         "academic_interests": "",
         "bio": ""
     }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/pgaggl/",
+        "name": "Paul Gaggl",
+        "department": "Economics",
+        "academic_interests": "communication technology\nincome distribution\nlabor economics\nlabor markets\n\n\nlabor welfare\nMacroeconomics\ntechnology adoption",
+        "bio": "var sc_project=7388323;\nvar sc_invisible=0;\nvar sc_security=\u201d369a32c6\u2033; \nhttp://www.statcounter.com/counter/counter.js\n\n\n\nPaul Gaggl, PhD (UC Davis)\nAssociate Professor of Economics\nDirector, Master of Science in Economics\nPublic Policy Faculty Affiliate\nUniversity of North Carolina at Charlotte\nBelk College of Business\nDepartment of Economics\n9201 University City Blvd\nCharlotte, NC 28223-0001\nUSA\n\u00a0\nQuick Links\nResearch\nCurriculum Vitae\u00a0 \u00a0[pdf]\nUNC Charlotte Economics Seminar\nUNC Charlotte Working Paper Series\nI-85 Macro Workshop"
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/pgaggl/",
+        "name": "Paul Gaggl",
+        "department": "Economics",
+        "academic_interests": "communication technology\nincome distribution\nlabor economics\nlabor markets\n\n\nlabor welfare\nMacroeconomics\ntechnology adoption",
+        "bio": "var sc_project=7388323;\nvar sc_invisible=0;\nvar sc_security=\u201d369a32c6\u2033; \nhttp://www.statcounter.com/counter/counter.js\n\n\n\nPaul Gaggl, PhD (UC Davis)\nAssociate Professor of Economics\nDirector, Master of Science in Economics\nPublic Policy Faculty Affiliate\nUniversity of North Carolina at Charlotte\nBelk College of Business\nDepartment of Economics\n9201 University City Blvd\nCharlotte, NC 28223-0001\nUSA\n\u00a0\nQuick Links\nResearch\nCurriculum Vitae\u00a0 \u00a0[pdf]\nUNC Charlotte Economics Seminar\nUNC Charlotte Working Paper Series\nI-85 Macro Workshop"
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/pnorande/",
+        "name": "Per Norander",
+        "department": "Economics",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/pgaggl/",
+        "name": "Paul Gaggl",
+        "department": "Economics",
+        "academic_interests": "communication technology\nincome distribution\nlabor economics\nlabor markets\n\n\nlabor welfare\nMacroeconomics\ntechnology adoption",
+        "bio": "var sc_project=7388323;\nvar sc_invisible=0;\nvar sc_security=\u201d369a32c6\u2033; \nhttp://www.statcounter.com/counter/counter.js\n\n\n\nPaul Gaggl, PhD (UC Davis)\nAssociate Professor of Economics\nDirector, Master of Science in Economics\nPublic Policy Faculty Affiliate\nUniversity of North Carolina at Charlotte\nBelk College of Business\nDepartment of Economics\n9201 University City Blvd\nCharlotte, NC 28223-0001\nUSA\n\u00a0\nQuick Links\nResearch\nCurriculum Vitae\u00a0 \u00a0[pdf]\nUNC Charlotte Economics Seminar\nUNC Charlotte Working Paper Series\nI-85 Macro Workshop"
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/pnorande/",
+        "name": "Per Norander",
+        "department": "Economics",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/pschwarz/",
+        "name": "Peter Schwarz",
+        "department": "Economics",
+        "academic_interests": "behavioral economics",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/pgaggl/",
+        "name": "Paul Gaggl",
+        "department": "Economics",
+        "academic_interests": "communication technology\nincome distribution\nlabor economics\nlabor markets\n\n\nlabor welfare\nMacroeconomics\ntechnology adoption",
+        "bio": "var sc_project=7388323;\nvar sc_invisible=0;\nvar sc_security=\u201d369a32c6\u2033; \nhttp://www.statcounter.com/counter/counter.js\n\n\n\nPaul Gaggl, PhD (UC Davis)\nAssociate Professor of Economics\nDirector, Master of Science in Economics\nPublic Policy Faculty Affiliate\nUniversity of North Carolina at Charlotte\nBelk College of Business\nDepartment of Economics\n9201 University City Blvd\nCharlotte, NC 28223-0001\nUSA\n\u00a0\nQuick Links\nResearch\nCurriculum Vitae\u00a0 \u00a0[pdf]\nUNC Charlotte Economics Seminar\nUNC Charlotte Working Paper Series\nI-85 Macro Workshop"
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/pnorande/",
+        "name": "Per Norander",
+        "department": "Economics",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/pschwarz/",
+        "name": "Peter Schwarz",
+        "department": "Economics",
+        "academic_interests": "behavioral economics",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/rrmcgreg/",
+        "name": "Rob McGregor",
+        "department": "Economics",
+        "academic_interests": "Federal Open Market Committee\nFederal Reserve\n\n\nMacroeconomics\nmonetary policy",
+        "bio": "Personal Information:\nDr. McGregor joined the faculty of the Belk College in 1991. He received his BA in economics in 1982 and his MA in economics in 1984, both from Clemson University. After three years as a lecturer in economics at UNC Charlotte, Dr. McGregor returned to graduate school; in 1991, he received his PhD in economics from the University of South Carolina. His principal research interests center on the monetary policy decision process of the Federal Reserve\u2019s Federal Open Market Committee (FOMC). Dr. McGregor teaches courses in macroeconomics, monetary and financial theory, econometrics, and forecasting. He currently serves as coordinator of the MS in Economics program.\nMaster of Science in Economics\nUNC Charlotte/Copenhagen Business School Dual-Degree Program\nGraduate Resources\nVita"
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/pgaggl/",
+        "name": "Paul Gaggl",
+        "department": "Economics",
+        "academic_interests": "communication technology\nincome distribution\nlabor economics\nlabor markets\n\n\nlabor welfare\nMacroeconomics\ntechnology adoption",
+        "bio": "var sc_project=7388323;\nvar sc_invisible=0;\nvar sc_security=\u201d369a32c6\u2033; \nhttp://www.statcounter.com/counter/counter.js\n\n\n\nPaul Gaggl, PhD (UC Davis)\nAssociate Professor of Economics\nDirector, Master of Science in Economics\nPublic Policy Faculty Affiliate\nUniversity of North Carolina at Charlotte\nBelk College of Business\nDepartment of Economics\n9201 University City Blvd\nCharlotte, NC 28223-0001\nUSA\n\u00a0\nQuick Links\nResearch\nCurriculum Vitae\u00a0 \u00a0[pdf]\nUNC Charlotte Economics Seminar\nUNC Charlotte Working Paper Series\nI-85 Macro Workshop"
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/pnorande/",
+        "name": "Per Norander",
+        "department": "Economics",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/pschwarz/",
+        "name": "Peter Schwarz",
+        "department": "Economics",
+        "academic_interests": "behavioral economics",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/rrmcgreg/",
+        "name": "Rob McGregor",
+        "department": "Economics",
+        "academic_interests": "Federal Open Market Committee\nFederal Reserve\n\n\nMacroeconomics\nmonetary policy",
+        "bio": "Personal Information:\nDr. McGregor joined the faculty of the Belk College in 1991. He received his BA in economics in 1982 and his MA in economics in 1984, both from Clemson University. After three years as a lecturer in economics at UNC Charlotte, Dr. McGregor returned to graduate school; in 1991, he received his PhD in economics from the University of South Carolina. His principal research interests center on the monetary policy decision process of the Federal Reserve\u2019s Federal Open Market Committee (FOMC). Dr. McGregor teaches courses in macroeconomics, monetary and financial theory, econometrics, and forecasting. He currently serves as coordinator of the MS in Economics program.\nMaster of Science in Economics\nUNC Charlotte/Copenhagen Business School Dual-Degree Program\nGraduate Resources\nVita"
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/tmannahb/",
+        "name": "Theresa Mannah-Blankson",
+        "department": "Economics",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/tmayock/",
+        "name": "Thomas Mayock",
+        "department": "Economics",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/ckirby10/",
+        "name": "Christopher Kirby",
+        "department": "Finance",
+        "academic_interests": "asset pricing\nempirical finance\n\n\nfinancial econometrics",
+        "bio": "Curriculum Vitae\nWelcome to my website.\n\nI presently hold a joint appointment as a Professor of Finance and Economics in the Belk College of Business. \u00a0Before joining the University of North Carolina at Charlotte in 2011, I held tenured appointments in economics at Clemson University and in finance at the University of Texas at Dallas.\nMy research interests include asset pricing, investments, empirical finance, and financial econometrics.\u00a0 I have published in the\u00a0Journal of Finance, Journal of Financial Economics, Review of Financial Studies, Journal of Financial and Quantitative Analysis, and a number of other finance and economics journals.\u00a0 My current research focuses on modeling time-series changes in\u00a0volatility and developing new portfolio-optimization techniques."
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/ckirby10/",
+        "name": "Christopher Kirby",
+        "department": "Finance",
+        "academic_interests": "asset pricing\nempirical finance\n\n\nfinancial econometrics",
+        "bio": "Curriculum Vitae\nWelcome to my website.\n\nI presently hold a joint appointment as a Professor of Finance and Economics in the Belk College of Business. \u00a0Before joining the University of North Carolina at Charlotte in 2011, I held tenured appointments in economics at Clemson University and in finance at the University of Texas at Dallas.\nMy research interests include asset pricing, investments, empirical finance, and financial econometrics.\u00a0 I have published in the\u00a0Journal of Finance, Journal of Financial Economics, Review of Financial Studies, Journal of Financial and Quantitative Analysis, and a number of other finance and economics journals.\u00a0 My current research focuses on modeling time-series changes in\u00a0volatility and developing new portfolio-optimization techniques."
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/cbush15/",
+        "name": "Cynthia Bush",
+        "department": "Finance",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/ckirby10/",
+        "name": "Christopher Kirby",
+        "department": "Finance",
+        "academic_interests": "asset pricing\nempirical finance\n\n\nfinancial econometrics",
+        "bio": "Curriculum Vitae\nWelcome to my website.\n\nI presently hold a joint appointment as a Professor of Finance and Economics in the Belk College of Business. \u00a0Before joining the University of North Carolina at Charlotte in 2011, I held tenured appointments in economics at Clemson University and in finance at the University of Texas at Dallas.\nMy research interests include asset pricing, investments, empirical finance, and financial econometrics.\u00a0 I have published in the\u00a0Journal of Finance, Journal of Financial Economics, Review of Financial Studies, Journal of Financial and Quantitative Analysis, and a number of other finance and economics journals.\u00a0 My current research focuses on modeling time-series changes in\u00a0volatility and developing new portfolio-optimization techniques."
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/cbush15/",
+        "name": "Cynthia Bush",
+        "department": "Finance",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/dwrigh65/",
+        "name": "Daniel Wright",
+        "department": "Finance",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/ckirby10/",
+        "name": "Christopher Kirby",
+        "department": "Finance",
+        "academic_interests": "asset pricing\nempirical finance\n\n\nfinancial econometrics",
+        "bio": "Curriculum Vitae\nWelcome to my website.\n\nI presently hold a joint appointment as a Professor of Finance and Economics in the Belk College of Business. \u00a0Before joining the University of North Carolina at Charlotte in 2011, I held tenured appointments in economics at Clemson University and in finance at the University of Texas at Dallas.\nMy research interests include asset pricing, investments, empirical finance, and financial econometrics.\u00a0 I have published in the\u00a0Journal of Finance, Journal of Financial Economics, Review of Financial Studies, Journal of Financial and Quantitative Analysis, and a number of other finance and economics journals.\u00a0 My current research focuses on modeling time-series changes in\u00a0volatility and developing new portfolio-optimization techniques."
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/cbush15/",
+        "name": "Cynthia Bush",
+        "department": "Finance",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/dwrigh65/",
+        "name": "Daniel Wright",
+        "department": "Finance",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/dmauer/",
+        "name": "David Mauer",
+        "department": "Finance",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/ckirby10/",
+        "name": "Christopher Kirby",
+        "department": "Finance",
+        "academic_interests": "asset pricing\nempirical finance\n\n\nfinancial econometrics",
+        "bio": "Curriculum Vitae\nWelcome to my website.\n\nI presently hold a joint appointment as a Professor of Finance and Economics in the Belk College of Business. \u00a0Before joining the University of North Carolina at Charlotte in 2011, I held tenured appointments in economics at Clemson University and in finance at the University of Texas at Dallas.\nMy research interests include asset pricing, investments, empirical finance, and financial econometrics.\u00a0 I have published in the\u00a0Journal of Finance, Journal of Financial Economics, Review of Financial Studies, Journal of Financial and Quantitative Analysis, and a number of other finance and economics journals.\u00a0 My current research focuses on modeling time-series changes in\u00a0volatility and developing new portfolio-optimization techniques."
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/cbush15/",
+        "name": "Cynthia Bush",
+        "department": "Finance",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/dwrigh65/",
+        "name": "Daniel Wright",
+        "department": "Finance",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/dmauer/",
+        "name": "David Mauer",
+        "department": "Finance",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/frneale/",
+        "name": "Faith Neale",
+        "department": "Finance",
+        "academic_interests": "insurance regulation\ninsurer solvency\n\n\nmedical malpractice",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/glai/",
+        "name": "Gene Lai",
+        "department": "Finance",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/glai/",
+        "name": "Gene Lai",
+        "department": "Finance",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/ichiang1/",
+        "name": "I-Hsuan Chiang",
+        "department": "Finance",
+        "academic_interests": "asset pricing\nempirical asset pricing\nfinancial econometrics\n\n\nfixed income securities\nportfolio management\nportfolio performance evaluation",
+        "bio": "I-Hsuan Ethan Chiang\nAssociate Professor of Finance\nBelk College of Business\nUniversity of North Carolina at Charlotte\n9201 University City Boulevard\nCharlotte, NC 28223,\u00a0USA\n\nEmail:\u00a0Ethan.Chiang [at] uncc [dot] edu\nOfficial URL: Click here\n\nProfessor Ethan Chiang\u2019s research focuses on empirical asset pricing, portfolio management and performance evaluation, fixed income securities, international finance, and quantitative methods. \u00a0He has published scholarly articles in leading financial economics and asset pricing journals, such as Journal of Finance, Review of Asset Pricing Studies, and Journal of Banking & Finance.\u00a0 His papers have been included in the programs of major international academic conferences, such as American Finance Association Annual Meetings, European Finance Association Annual Meetings, China International Conference in Finance, American Economic Association Meetings, and Financial Intermediation Research Society Conference.\u00a0 He was also invited to give speeches to policy makers (e.g.,\u00a0 Federal Reserve Board) and practitioners (e.g., Wolfe Research). His papers won best paper awards from international academic societies, including Financial Management Association, Eastern Finance Association (twice), and INFORMS.\u00a0 At the Belk College of Business, his research has been recognized with the Best Faculty Research Paper Award, and he was named the 2016 Dean\u2019s Scholar.\u00a0\nProfessor Chiang teaches PhD Portfolio Theory, MS in Math Finance Fixed Income, MBA Financial Management, Multinational Financial Management, and undergraduate Investments at UNC Charlotte, and Global Business Strategy MBA Multinational Financial Management at EGADE Business School, Tecnologico de Monterrey, and he was recognized with the 2021 Belk College of Business Excellence in Graduate Teaching Award.\u00a0 Prior to joining UNC Charlotte, he taught Investments and MBA/MSF Fixed Income Reviews at Boston College, and Business Finance at the University of Washington.\nProfessor Chiang received BA in Economics from National Taiwan University, MBA from National Chengchi University (Taiwan), and PhD in Finance from Boston College."
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/glai/",
+        "name": "Gene Lai",
+        "department": "Finance",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/ichiang1/",
+        "name": "I-Hsuan Chiang",
+        "department": "Finance",
+        "academic_interests": "asset pricing\nempirical asset pricing\nfinancial econometrics\n\n\nfixed income securities\nportfolio management\nportfolio performance evaluation",
+        "bio": "I-Hsuan Ethan Chiang\nAssociate Professor of Finance\nBelk College of Business\nUniversity of North Carolina at Charlotte\n9201 University City Boulevard\nCharlotte, NC 28223,\u00a0USA\n\nEmail:\u00a0Ethan.Chiang [at] uncc [dot] edu\nOfficial URL: Click here\n\nProfessor Ethan Chiang\u2019s research focuses on empirical asset pricing, portfolio management and performance evaluation, fixed income securities, international finance, and quantitative methods. \u00a0He has published scholarly articles in leading financial economics and asset pricing journals, such as Journal of Finance, Review of Asset Pricing Studies, and Journal of Banking & Finance.\u00a0 His papers have been included in the programs of major international academic conferences, such as American Finance Association Annual Meetings, European Finance Association Annual Meetings, China International Conference in Finance, American Economic Association Meetings, and Financial Intermediation Research Society Conference.\u00a0 He was also invited to give speeches to policy makers (e.g.,\u00a0 Federal Reserve Board) and practitioners (e.g., Wolfe Research). His papers won best paper awards from international academic societies, including Financial Management Association, Eastern Finance Association (twice), and INFORMS.\u00a0 At the Belk College of Business, his research has been recognized with the Best Faculty Research Paper Award, and he was named the 2016 Dean\u2019s Scholar.\u00a0\nProfessor Chiang teaches PhD Portfolio Theory, MS in Math Finance Fixed Income, MBA Financial Management, Multinational Financial Management, and undergraduate Investments at UNC Charlotte, and Global Business Strategy MBA Multinational Financial Management at EGADE Business School, Tecnologico de Monterrey, and he was recognized with the 2021 Belk College of Business Excellence in Graduate Teaching Award.\u00a0 Prior to joining UNC Charlotte, he taught Investments and MBA/MSF Fixed Income Reviews at Boston College, and Business Finance at the University of Washington.\nProfessor Chiang received BA in Economics from National Taiwan University, MBA from National Chengchi University (Taiwan), and PhD in Finance from Boston College."
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/jrussell/",
+        "name": "Judson Russell",
+        "department": "Finance",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/glai/",
+        "name": "Gene Lai",
+        "department": "Finance",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/ichiang1/",
+        "name": "I-Hsuan Chiang",
+        "department": "Finance",
+        "academic_interests": "asset pricing\nempirical asset pricing\nfinancial econometrics\n\n\nfixed income securities\nportfolio management\nportfolio performance evaluation",
+        "bio": "I-Hsuan Ethan Chiang\nAssociate Professor of Finance\nBelk College of Business\nUniversity of North Carolina at Charlotte\n9201 University City Boulevard\nCharlotte, NC 28223,\u00a0USA\n\nEmail:\u00a0Ethan.Chiang [at] uncc [dot] edu\nOfficial URL: Click here\n\nProfessor Ethan Chiang\u2019s research focuses on empirical asset pricing, portfolio management and performance evaluation, fixed income securities, international finance, and quantitative methods. \u00a0He has published scholarly articles in leading financial economics and asset pricing journals, such as Journal of Finance, Review of Asset Pricing Studies, and Journal of Banking & Finance.\u00a0 His papers have been included in the programs of major international academic conferences, such as American Finance Association Annual Meetings, European Finance Association Annual Meetings, China International Conference in Finance, American Economic Association Meetings, and Financial Intermediation Research Society Conference.\u00a0 He was also invited to give speeches to policy makers (e.g.,\u00a0 Federal Reserve Board) and practitioners (e.g., Wolfe Research). His papers won best paper awards from international academic societies, including Financial Management Association, Eastern Finance Association (twice), and INFORMS.\u00a0 At the Belk College of Business, his research has been recognized with the Best Faculty Research Paper Award, and he was named the 2016 Dean\u2019s Scholar.\u00a0\nProfessor Chiang teaches PhD Portfolio Theory, MS in Math Finance Fixed Income, MBA Financial Management, Multinational Financial Management, and undergraduate Investments at UNC Charlotte, and Global Business Strategy MBA Multinational Financial Management at EGADE Business School, Tecnologico de Monterrey, and he was recognized with the 2021 Belk College of Business Excellence in Graduate Teaching Award.\u00a0 Prior to joining UNC Charlotte, he taught Investments and MBA/MSF Fixed Income Reviews at Boston College, and Business Finance at the University of Washington.\nProfessor Chiang received BA in Economics from National Taiwan University, MBA from National Chengchi University (Taiwan), and PhD in Finance from Boston College."
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/jrussell/",
+        "name": "Judson Russell",
+        "department": "Finance",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/kwomack4/",
+        "name": "Kiplan Womack",
+        "department": "Finance",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/glai/",
+        "name": "Gene Lai",
+        "department": "Finance",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/ichiang1/",
+        "name": "I-Hsuan Chiang",
+        "department": "Finance",
+        "academic_interests": "asset pricing\nempirical asset pricing\nfinancial econometrics\n\n\nfixed income securities\nportfolio management\nportfolio performance evaluation",
+        "bio": "I-Hsuan Ethan Chiang\nAssociate Professor of Finance\nBelk College of Business\nUniversity of North Carolina at Charlotte\n9201 University City Boulevard\nCharlotte, NC 28223,\u00a0USA\n\nEmail:\u00a0Ethan.Chiang [at] uncc [dot] edu\nOfficial URL: Click here\n\nProfessor Ethan Chiang\u2019s research focuses on empirical asset pricing, portfolio management and performance evaluation, fixed income securities, international finance, and quantitative methods. \u00a0He has published scholarly articles in leading financial economics and asset pricing journals, such as Journal of Finance, Review of Asset Pricing Studies, and Journal of Banking & Finance.\u00a0 His papers have been included in the programs of major international academic conferences, such as American Finance Association Annual Meetings, European Finance Association Annual Meetings, China International Conference in Finance, American Economic Association Meetings, and Financial Intermediation Research Society Conference.\u00a0 He was also invited to give speeches to policy makers (e.g.,\u00a0 Federal Reserve Board) and practitioners (e.g., Wolfe Research). His papers won best paper awards from international academic societies, including Financial Management Association, Eastern Finance Association (twice), and INFORMS.\u00a0 At the Belk College of Business, his research has been recognized with the Best Faculty Research Paper Award, and he was named the 2016 Dean\u2019s Scholar.\u00a0\nProfessor Chiang teaches PhD Portfolio Theory, MS in Math Finance Fixed Income, MBA Financial Management, Multinational Financial Management, and undergraduate Investments at UNC Charlotte, and Global Business Strategy MBA Multinational Financial Management at EGADE Business School, Tecnologico de Monterrey, and he was recognized with the 2021 Belk College of Business Excellence in Graduate Teaching Award.\u00a0 Prior to joining UNC Charlotte, he taught Investments and MBA/MSF Fixed Income Reviews at Boston College, and Business Finance at the University of Washington.\nProfessor Chiang received BA in Economics from National Taiwan University, MBA from National Chengchi University (Taiwan), and PhD in Finance from Boston College."
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/jrussell/",
+        "name": "Judson Russell",
+        "department": "Finance",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/kwomack4/",
+        "name": "Kiplan Womack",
+        "department": "Finance",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/lblenman/",
+        "name": "Lloyd Blenman",
+        "department": "Finance",
+        "academic_interests": "asset pricing models\ncontinuous-time finance\n\n\nfutures\ninternational finance",
+        "bio": "Education:\u00a0\nPh.D., Ohio State University\nAreas of Expertise:\u00a0\nInternational Finance\nAsset Pricing\nFutures and Options\n\n2008 Midwest Finance Association Program Chair"
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/spclark/",
+        "name": "Steven Clark",
+        "department": "Finance",
+        "academic_interests": "applied probability\ncorporate finance\nderivatives\nderivatives markets\nfinancial risk management\n\n\nmathematical finance\nrandom processes\nsecurities markets\nstochastic control\nstochastic modeling",
+        "bio": "Education:\n2003 Ph.D. in Applied Economics, The John E. Walker Department of Economics, Clemson University\n2000 Ph.D. in Mathematical Sciences, Department of Mathematical Sciences, Clemson University\nResearch:\n\u2022Mathematical Finance\n\u2022Derivative Securities\n\u2022Financial Econometrics\n\u2022Real Estate\n\u2022Applied Probability"
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/spclark/",
+        "name": "Steven Clark",
+        "department": "Finance",
+        "academic_interests": "applied probability\ncorporate finance\nderivatives\nderivatives markets\nfinancial risk management\n\n\nmathematical finance\nrandom processes\nsecurities markets\nstochastic control\nstochastic modeling",
+        "bio": "Education:\n2003 Ph.D. in Applied Economics, The John E. Walker Department of Economics, Clemson University\n2000 Ph.D. in Mathematical Sciences, Department of Mathematical Sciences, Clemson University\nResearch:\n\u2022Mathematical Finance\n\u2022Derivative Securities\n\u2022Financial Econometrics\n\u2022Real Estate\n\u2022Applied Probability"
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/tking3/",
+        "name": "Tao-Hsien King",
+        "department": "Finance",
+        "academic_interests": "corporate finance\n\n\nfixed income securities",
+        "bio": "Tao-Hsien Dolly King\nRush S. Dickson Professor of Finance\nBelk College of Business\nUniversity of North Carolina at Charlotte\nResearch Interests: \u00a0Corporate Finance, Fixed Income Securities\nEducation:\nPh.D., University of Wisconsin \u2013 Madison\nM.B.A., University of Wisconsin \u2013 Madison\nB.B.A., National Cheng-Kung University"
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/spclark/",
+        "name": "Steven Clark",
+        "department": "Finance",
+        "academic_interests": "applied probability\ncorporate finance\nderivatives\nderivatives markets\nfinancial risk management\n\n\nmathematical finance\nrandom processes\nsecurities markets\nstochastic control\nstochastic modeling",
+        "bio": "Education:\n2003 Ph.D. in Applied Economics, The John E. Walker Department of Economics, Clemson University\n2000 Ph.D. in Mathematical Sciences, Department of Mathematical Sciences, Clemson University\nResearch:\n\u2022Mathematical Finance\n\u2022Derivative Securities\n\u2022Financial Econometrics\n\u2022Real Estate\n\u2022Applied Probability"
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/tking3/",
+        "name": "Tao-Hsien King",
+        "department": "Finance",
+        "academic_interests": "corporate finance\n\n\nfixed income securities",
+        "bio": "Tao-Hsien Dolly King\nRush S. Dickson Professor of Finance\nBelk College of Business\nUniversity of North Carolina at Charlotte\nResearch Interests: \u00a0Corporate Finance, Fixed Income Securities\nEducation:\nPh.D., University of Wisconsin \u2013 Madison\nM.B.A., University of Wisconsin \u2013 Madison\nB.B.A., National Cheng-Kung University"
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/tsmarsha/",
+        "name": "Thomas Marshall",
+        "department": "Finance",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/spclark/",
+        "name": "Steven Clark",
+        "department": "Finance",
+        "academic_interests": "applied probability\ncorporate finance\nderivatives\nderivatives markets\nfinancial risk management\n\n\nmathematical finance\nrandom processes\nsecurities markets\nstochastic control\nstochastic modeling",
+        "bio": "Education:\n2003 Ph.D. in Applied Economics, The John E. Walker Department of Economics, Clemson University\n2000 Ph.D. in Mathematical Sciences, Department of Mathematical Sciences, Clemson University\nResearch:\n\u2022Mathematical Finance\n\u2022Derivative Securities\n\u2022Financial Econometrics\n\u2022Real Estate\n\u2022Applied Probability"
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/tking3/",
+        "name": "Tao-Hsien King",
+        "department": "Finance",
+        "academic_interests": "corporate finance\n\n\nfixed income securities",
+        "bio": "Tao-Hsien Dolly King\nRush S. Dickson Professor of Finance\nBelk College of Business\nUniversity of North Carolina at Charlotte\nResearch Interests: \u00a0Corporate Finance, Fixed Income Securities\nEducation:\nPh.D., University of Wisconsin \u2013 Madison\nM.B.A., University of Wisconsin \u2013 Madison\nB.B.A., National Cheng-Kung University"
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/tsmarsha/",
+        "name": "Thomas Marshall",
+        "department": "Finance",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/yzhang74/",
+        "name": "Yilei Zhang",
+        "department": "Finance",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/spclark/",
+        "name": "Steven Clark",
+        "department": "Finance",
+        "academic_interests": "applied probability\ncorporate finance\nderivatives\nderivatives markets\nfinancial risk management\n\n\nmathematical finance\nrandom processes\nsecurities markets\nstochastic control\nstochastic modeling",
+        "bio": "Education:\n2003 Ph.D. in Applied Economics, The John E. Walker Department of Economics, Clemson University\n2000 Ph.D. in Mathematical Sciences, Department of Mathematical Sciences, Clemson University\nResearch:\n\u2022Mathematical Finance\n\u2022Derivative Securities\n\u2022Financial Econometrics\n\u2022Real Estate\n\u2022Applied Probability"
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/tking3/",
+        "name": "Tao-Hsien King",
+        "department": "Finance",
+        "academic_interests": "corporate finance\n\n\nfixed income securities",
+        "bio": "Tao-Hsien Dolly King\nRush S. Dickson Professor of Finance\nBelk College of Business\nUniversity of North Carolina at Charlotte\nResearch Interests: \u00a0Corporate Finance, Fixed Income Securities\nEducation:\nPh.D., University of Wisconsin \u2013 Madison\nM.B.A., University of Wisconsin \u2013 Madison\nB.B.A., National Cheng-Kung University"
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/tsmarsha/",
+        "name": "Thomas Marshall",
+        "department": "Finance",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/yzhang74/",
+        "name": "Yilei Zhang",
+        "department": "Finance",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/ychu3/",
+        "name": "Yongqiang Chu",
+        "department": "Finance",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/yhan15/",
+        "name": "Yufeng Han",
+        "department": "Finance",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/yhan15/",
+        "name": "Yufeng Han",
+        "department": "Finance",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/clkane/",
+        "name": "Cheryl Kane",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/yhan15/",
+        "name": "Yufeng Han",
+        "department": "Finance",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/clkane/",
+        "name": "Cheryl Kane",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/dlkerr/",
+        "name": "Daryl Kerr",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/yhan15/",
+        "name": "Yufeng Han",
+        "department": "Finance",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/clkane/",
+        "name": "Cheryl Kane",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/dlkerr/",
+        "name": "Daryl Kerr",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/dwoehr/",
+        "name": "David Woehr",
+        "department": "Management",
+        "academic_interests": "applied psychometrics\nmanagerial assessment\n\n\nperformance measurement",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/yhan15/",
+        "name": "Yufeng Han",
+        "department": "Finance",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/clkane/",
+        "name": "Cheryl Kane",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/dlkerr/",
+        "name": "Daryl Kerr",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/dwoehr/",
+        "name": "David Woehr",
+        "department": "Management",
+        "academic_interests": "applied psychometrics\nmanagerial assessment\n\n\nperformance measurement",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/darnold7/",
+        "name": "Denis Arnold",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/fkellerm/",
+        "name": "Franz Kellermanns",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/fkellerm/",
+        "name": "Franz Kellermanns",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/gfkohut/",
+        "name": "Gary Kohut",
+        "department": "Management",
+        "academic_interests": "business communication technologies\nbusiness presentations\nbusiness writing\ncorporate communication\n\n\ncorporate communication strategy\nleadership development\nmanagement development\nnegotiation",
+        "bio": "Office Hours:\n\nCourse Information:\nMBAD 6164 090 syllabus\nMBAD 6164 Case \u2013 State Farm"
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/fkellerm/",
+        "name": "Franz Kellermanns",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/gfkohut/",
+        "name": "Gary Kohut",
+        "department": "Management",
+        "academic_interests": "business communication technologies\nbusiness presentations\nbusiness writing\ncorporate communication\n\n\ncorporate communication strategy\nleadership development\nmanagement development\nnegotiation",
+        "bio": "Office Hours:\n\nCourse Information:\nMBAD 6164 090 syllabus\nMBAD 6164 Case \u2013 State Farm"
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/gbanks3/",
+        "name": "George Banks",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/fkellerm/",
+        "name": "Franz Kellermanns",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/gfkohut/",
+        "name": "Gary Kohut",
+        "department": "Management",
+        "academic_interests": "business communication technologies\nbusiness presentations\nbusiness writing\ncorporate communication\n\n\ncorporate communication strategy\nleadership development\nmanagement development\nnegotiation",
+        "bio": "Office Hours:\n\nCourse Information:\nMBAD 6164 090 syllabus\nMBAD 6164 Case \u2013 State Farm"
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/gbanks3/",
+        "name": "George Banks",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/jgooty/",
+        "name": "Janaki Gooty",
+        "department": "Management",
+        "academic_interests": "emotion management\nemotions\n\n\nleadership",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/fkellerm/",
+        "name": "Franz Kellermanns",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/gfkohut/",
+        "name": "Gary Kohut",
+        "department": "Management",
+        "academic_interests": "business communication technologies\nbusiness presentations\nbusiness writing\ncorporate communication\n\n\ncorporate communication strategy\nleadership development\nmanagement development\nnegotiation",
+        "bio": "Office Hours:\n\nCourse Information:\nMBAD 6164 090 syllabus\nMBAD 6164 Case \u2013 State Farm"
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/gbanks3/",
+        "name": "George Banks",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/jgooty/",
+        "name": "Janaki Gooty",
+        "department": "Management",
+        "academic_interests": "emotion management\nemotions\n\n\nleadership",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/jbeggs/",
+        "name": "Joyce Beggs",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/jwebb62/",
+        "name": "Justin Webb",
+        "department": "Management\nSchool of Data Science (SDS)",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/jwebb62/",
+        "name": "Justin Webb",
+        "department": "Management\nSchool of Data Science (SDS)",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/keickhof/",
+        "name": "Karen Eickhoff",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/jwebb62/",
+        "name": "Justin Webb",
+        "department": "Management\nSchool of Data Science (SDS)",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/keickhof/",
+        "name": "Karen Eickhoff",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/lstanl11/",
+        "name": "Laura Stanley",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/jwebb62/",
+        "name": "Justin Webb",
+        "department": "Management\nSchool of Data Science (SDS)",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/keickhof/",
+        "name": "Karen Eickhoff",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/lstanl11/",
+        "name": "Laura Stanley",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/scott-tonidandel/",
+        "name": "Scott Tonidandel",
+        "department": "Management",
+        "academic_interests": "big data\ndiversity\norganizational psychology\n\n\norganizational science\npeople analytics",
+        "bio": "Dr. Scott Tonidandel is a Professor of Management in the Belk College of Business at UNC Charlotte. He received his Ph.D. in\u00a0industrial-organizational psychology from Rice University.\u00a0His recent work focuses on people analytics and the interface of big data and the organizational sciences. He co-edited the SIOP Frontiers series volume titled\u00a0Big Data at Work: The Data Science Revolution and Organizational Psychology.\u00a0He also recently completed\u00a0work\u00a0on a NSF-funded project that uses sensors to understand team interactions and the impact of diversity. \u00a0He serves as an associate editor for the\u00a0Journal of Business and Psychology,\u00a0is a former associate editor for\u00a0Organizational Research Methods, and is a fellow of the Association for Psychological Science, the American Psychological Association, and the Society for Industrial and Organizational Psychology."
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/jwebb62/",
+        "name": "Justin Webb",
+        "department": "Management\nSchool of Data Science (SDS)",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/keickhof/",
+        "name": "Karen Eickhoff",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/lstanl11/",
+        "name": "Laura Stanley",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/scott-tonidandel/",
+        "name": "Scott Tonidandel",
+        "department": "Management",
+        "academic_interests": "big data\ndiversity\norganizational psychology\n\n\norganizational science\npeople analytics",
+        "bio": "Dr. Scott Tonidandel is a Professor of Management in the Belk College of Business at UNC Charlotte. He received his Ph.D. in\u00a0industrial-organizational psychology from Rice University.\u00a0His recent work focuses on people analytics and the interface of big data and the organizational sciences. He co-edited the SIOP Frontiers series volume titled\u00a0Big Data at Work: The Data Science Revolution and Organizational Psychology.\u00a0He also recently completed\u00a0work\u00a0on a NSF-funded project that uses sensors to understand team interactions and the impact of diversity. \u00a0He serves as an associate editor for the\u00a0Journal of Business and Psychology,\u00a0is a former associate editor for\u00a0Organizational Research Methods, and is a fellow of the Association for Psychological Science, the American Psychological Association, and the Society for Industrial and Organizational Psychology."
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/tpieper/",
+        "name": "Torsten Pieper",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/vpatel67/",
+        "name": "Vijay Patel",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/vpatel67/",
+        "name": "Vijay Patel",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/vwilkins/",
+        "name": "Vikki Randle",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/vpatel67/",
+        "name": "Vijay Patel",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/vwilkins/",
+        "name": "Vikki Randle",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/zchen23/",
+        "name": "Zitian Chen",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/vpatel67/",
+        "name": "Vijay Patel",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/vwilkins/",
+        "name": "Vikki Randle",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/zchen23/",
+        "name": "Zitian Chen",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/agolmoha/",
+        "name": "Alireza Golmohammadi",
+        "department": "Marketing",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/vpatel67/",
+        "name": "Vijay Patel",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/vwilkins/",
+        "name": "Vikki Randle",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/zchen23/",
+        "name": "Zitian Chen",
+        "department": "Management",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/agolmoha/",
+        "name": "Alireza Golmohammadi",
+        "department": "Marketing",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/bwwhelan/",
+        "name": "Brian Whelan",
+        "department": "Marketing",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/cbodkin/",
+        "name": "Charles Bodkin",
+        "department": "Marketing",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/cbodkin/",
+        "name": "Charles Bodkin",
+        "department": "Marketing",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/ctfox/",
+        "name": "Cynthia Fox",
+        "department": "Marketing",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/cbodkin/",
+        "name": "Charles Bodkin",
+        "department": "Marketing",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/ctfox/",
+        "name": "Cynthia Fox",
+        "department": "Marketing",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/jstuar12/",
+        "name": "Jennifer Ames Stuart",
+        "department": "Marketing",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/cbodkin/",
+        "name": "Charles Bodkin",
+        "department": "Marketing",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/ctfox/",
+        "name": "Cynthia Fox",
+        "department": "Marketing",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/jstuar12/",
+        "name": "Jennifer Ames Stuart",
+        "department": "Marketing",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/mjenki74/",
+        "name": "Mason Jenkins",
+        "department": "Marketing",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/cbodkin/",
+        "name": "Charles Bodkin",
+        "department": "Marketing",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/ctfox/",
+        "name": "Cynthia Fox",
+        "department": "Marketing",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/jstuar12/",
+        "name": "Jennifer Ames Stuart",
+        "department": "Marketing",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/mjenki74/",
+        "name": "Mason Jenkins",
+        "department": "Marketing",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/mchen37/",
+        "name": "Ming Chen",
+        "department": "Marketing",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/nyahyapo/",
+        "name": "Nima Yahyapour Jalali",
+        "department": "Marketing",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/nyahyapo/",
+        "name": "Nima Yahyapour Jalali",
+        "department": "Marketing",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/smoon13/",
+        "name": "Sangkil Moon",
+        "department": "Marketing\nSchool of Data Science (SDS)",
+        "academic_interests": "culture\nculture and consumers\ncustomer relationship management\nmarketing analytics\n\n\nmovie marketing\nsocial media\ntext mining",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/nyahyapo/",
+        "name": "Nima Yahyapour Jalali",
+        "department": "Marketing",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/smoon13/",
+        "name": "Sangkil Moon",
+        "department": "Marketing\nSchool of Data Science (SDS)",
+        "academic_interests": "culture\nculture and consumers\ncustomer relationship management\nmarketing analytics\n\n\nmovie marketing\nsocial media\ntext mining",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/serevell/",
+        "name": "Sunil Erevelles",
+        "department": "Marketing\nSchool of Data Science (SDS)",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/nyahyapo/",
+        "name": "Nima Yahyapour Jalali",
+        "department": "Marketing",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/smoon13/",
+        "name": "Sangkil Moon",
+        "department": "Marketing\nSchool of Data Science (SDS)",
+        "academic_interests": "culture\nculture and consumers\ncustomer relationship management\nmarketing analytics\n\n\nmovie marketing\nsocial media\ntext mining",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/serevell/",
+        "name": "Sunil Erevelles",
+        "department": "Marketing\nSchool of Data Science (SDS)",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/tcohen3/",
+        "name": "Tamara Cohen",
+        "department": "Marketing",
+        "academic_interests": "Global marketing\nmultinational entrepreneurship\n\n\nMultinational management strategy",
+        "bio": "Course Information\n\nMKTG 3110 003\nMKTG 3110 004\nMKTG 3231 001\nMKTG 3250 002"
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/nyahyapo/",
+        "name": "Nima Yahyapour Jalali",
+        "department": "Marketing",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/smoon13/",
+        "name": "Sangkil Moon",
+        "department": "Marketing\nSchool of Data Science (SDS)",
+        "academic_interests": "culture\nculture and consumers\ncustomer relationship management\nmarketing analytics\n\n\nmovie marketing\nsocial media\ntext mining",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/serevell/",
+        "name": "Sunil Erevelles",
+        "department": "Marketing\nSchool of Data Science (SDS)",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/tcohen3/",
+        "name": "Tamara Cohen",
+        "department": "Marketing",
+        "academic_interests": "Global marketing\nmultinational entrepreneurship\n\n\nMultinational management strategy",
+        "bio": "Course Information\n\nMKTG 3110 003\nMKTG 3110 004\nMKTG 3231 001\nMKTG 3250 002"
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/xliu44/",
+        "name": "Xia Liu",
+        "department": "Marketing",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/aghosh6/",
+        "name": "Aloke Ghosh",
+        "department": "Turner School of Accountancy",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/aghosh6/",
+        "name": "Aloke Ghosh",
+        "department": "Turner School of Accountancy",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/bburne17/",
+        "name": "Brian Burnett",
+        "department": "Turner School of Accountancy",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/aghosh6/",
+        "name": "Aloke Ghosh",
+        "department": "Turner School of Accountancy",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/bburne17/",
+        "name": "Brian Burnett",
+        "department": "Turner School of Accountancy",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/dskerr/",
+        "name": "David Kerr",
+        "department": "Turner School of Accountancy",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/aghosh6/",
+        "name": "Aloke Ghosh",
+        "department": "Turner School of Accountancy",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/bburne17/",
+        "name": "Brian Burnett",
+        "department": "Turner School of Accountancy",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/dskerr/",
+        "name": "David Kerr",
+        "department": "Turner School of Accountancy",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/dreppenh/",
+        "name": "David Reppenhagen",
+        "department": "Turner School of Accountancy",
+        "academic_interests": "",
+        "bio": ""
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/aghosh6/",
+        "name": "Aloke Ghosh",
+        "department": "Turner School of Accountancy",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/bburne17/",
+        "name": "Brian Burnett",
+        "department": "Turner School of Accountancy",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/dskerr/",
+        "name": "David Kerr",
+        "department": "Turner School of Accountancy",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/dreppenh/",
+        "name": "David Reppenhagen",
+        "department": "Turner School of Accountancy",
+        "academic_interests": "",
+        "bio": ""
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/gmarti44/",
+        "name": "Gregory Martin",
+        "department": "Turner School of Accountancy",
+        "academic_interests": "",
+        "bio": "Biography:\nGreg Martin is an assistant professor in the Turner School of Accountancy\u00a0in the Belk College of Business at UNC Charlotte. Dr. Martin\u2019s teaching and research focuses on financial accounting. Dr. Martin has won numerous teaching awards at both the undergraduate and graduate levels and his research has appeared in journals such as Journal of International Accounting Research, Auditing: A Journal of Practice and Theory,\u00a0Journal of Business Finance and Accounting,\u00a0and The Accounting Review. His current research interests include financial reporting quality, audit quality\u00a0and the implications of financial restatements. He graduated from the United States Air Force Academy in 1998 and served on active duty for eight years. During his active duty career he operated research and development programs and spent his final three years as a professor in the Air Force Academy\u2019s Department of Management after receiving his MBA from the University of Notre Dame. After leaving active duty, Dr. Martin earned his Ph.D. in accounting from the University of Colorado at Boulder where his research focused on financial reporting quality and regulation. Dr. Martin is a retired Major in the United States Air Force Reserves.\nClick on the tabs above to view Dr. Martin\u2019s curriculum vitae."
+    }
 ]

@@ -247,11 +247,10 @@ def get_all_links(links, limit):
             
             
         staff_info_df = pd.DataFrame(All_STAFF_INFOMATION)    
-        original_df =staff_info_df.append(original_df)   
-        print(All_STAFF_INFOMATION)
-        original_df.to_csv('log/staff_info.csv', index=False)
+        staff_info_df =staff_info_df.append(original_df)
+        staff_info_df.to_csv('log/staff_info.csv', index=False)
 
-        print(str(All_STAFF_INFOMATION.__len__() )+ ' staff members added')
+        print(str(All_STAFF_INFOMATION.__len__() )+ ' staff members added for a total of ' + str(len(staff_info_df) ))
 
 
 
@@ -267,15 +266,14 @@ def filter_visited():
 
 
 
-print('Getting all the links')
 
+
+# removing the visited links from the links
 filtered_links = filter_visited()
-
+# to query information from the website with a stop condition
 get_all_links(filtered_links, 5)
 
 # This is the main function that will be called to get the links to the staff members
 
 
 
-# to query information from the website with a stop condition
-#get_all_links(links.get('link'), 2)
