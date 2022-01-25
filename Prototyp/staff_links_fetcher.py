@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.10
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # Author: Murtadha Marzouq
 # Description: This is the main file for the program that will be used to scrape the website and save the data in a json file or csv
@@ -9,26 +9,31 @@
 
 import json
 import requests
-
 from bs4 import BeautifulSoup
 import re
 import json
 import bs4
 import pandas as pd
+
+
+# FLAGS:
+
 # Tor Setup
 TOR_FLAG = False
 
 
 
 
-visited_urls = open('log/visited_urls', 'r').read().split('\n')
 
 # TODO
-# support sessions by checking for stored staff info and if they don't exist then get them from the website
+# support sessions by checking for stored staff info and if they don't exist then get them from the website --Completed
 # For each web request, save the outputed HTML file for future use and mining and to also reduce network traffic
-# Tor connection option for the program to anonymize the traffic
-# setting up the session (visited urls ) 
+# Tor connection option for the program to anonymize the traffic and avoid detection -- Completed
+# setting up the session (visited urls )  -- Completed
 
+
+
+visited_urls = open('log/visited_urls', 'r').read().split('\n')
 
 
 
