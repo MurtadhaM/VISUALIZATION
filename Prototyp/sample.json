@@ -1,0 +1,719 @@
+{
+    "college-of-business": {
+        "\nMarketing\n": [
+            "Global marketing",
+            "multinational entrepreneurship",
+            "Multinational management strategy",
+            "Marketing"
+        ],
+        "\nBusiness Info Systems/Operations\n": [
+            "computer communication",
+            "computer networking",
+            "information management",
+            "network application programming design",
+            "network management",
+            "network system performance evaluation",
+            "networks",
+            "web",
+            "web application programming design",
+            "Business Info Systems/Operations"
+        ],
+        "\nTurner School of Accountancy\n": [
+            "individual taxation",
+            "international taxation",
+            "partnership taxation",
+            "Tax policy",
+            "Turner School of Accountancy"
+        ],
+        "\nFinance\n": [
+            "applied probability",
+            "corporate finance",
+            "derivatives",
+            "derivatives markets",
+            "financial risk management",
+            "mathematical finance",
+            "random processes",
+            "securities markets",
+            "stochastic control",
+            "stochastic modeling",
+            "Finance"
+        ],
+        "\nEconomics\n": [
+            "Economic impact analysis",
+            "Regional economics",
+            "Sports economics",
+            "Economics"
+        ],
+        "\nManagement\n": [
+            "business communication technologies",
+            "business presentations",
+            "business writing",
+            "corporate communication",
+            "corporate communication strategy",
+            "leadership development",
+            "management development",
+            "negotiation",
+            "Management"
+        ],
+        "\nBusiness Info Systems/Operations\nSchool of Data Science (SDS)\n": [
+            "OM-marketing interface",
+            "operations management",
+            "supply chain coordination",
+            "supply chain management",
+            "Business Info Systems/Operations",
+            "School of Data Science (SDS)"
+        ],
+        "\nManagement\nSchool of Data Science (SDS)\n": [
+            "Management",
+            "School of Data Science (SDS)"
+        ],
+        "\nMarketing\nSchool of Data Science (SDS)\n": [
+            "culture",
+            "culture and consumers",
+            "customer relationship management",
+            "marketing analytics",
+            "movie marketing",
+            "social media",
+            "text mining",
+            "Marketing",
+            "School of Data Science (SDS)"
+        ]
+    },
+    "college-of-arts-and-architecture": {
+        "\nArt & Art History\n": [
+            "art",
+            "design",
+            "graphic design",
+            "illustration",
+            "printmaking",
+            "visual arts",
+            "Art & Art History"
+        ],
+        "\nMusic\n": [
+            "arts and community",
+            "cello",
+            "cultural diversity",
+            "diversity",
+            "music",
+            "orchestra",
+            "performing arts",
+            "string chamber music",
+            "Music"
+        ],
+        "\nSchool of Architecture\n": [
+            "architectural design",
+            "Architecture",
+            "arts and community",
+            "community development",
+            "creative leadership",
+            "cultural representation",
+            "design process",
+            "environmental design",
+            "fine arts",
+            "housing",
+            "social histories",
+            "social sustainability",
+            "sustainability",
+            "urban and regional planning",
+            "School of Architecture"
+        ],
+        "\nPerforming Arts Services\n": [
+            "film",
+            "musical theatre",
+            "performing arts",
+            "stage",
+            "stage management",
+            "stage production",
+            "Performing Arts Services"
+        ],
+        "\nTheatre\n": [
+            "clothing history",
+            "costume crafts",
+            "costume design",
+            "costuming",
+            "diversity",
+            "diversity and theatre",
+            "diversity issues",
+            "dramaturgy",
+            "playwright",
+            "production",
+            "representation",
+            "representation in theatre",
+            "stage makeup",
+            "theatre",
+            "Theatre"
+        ],
+        "\nDance\n": [
+            "ballet",
+            "body and embodiment",
+            "choreography",
+            "collaboration",
+            "collaborative practices",
+            "contemporary ballet",
+            "culture",
+            "dance history",
+            "dance pedagogy",
+            "dance technique",
+            "gender",
+            "interdisciplinary collaboration",
+            "performing arts",
+            "practice as research",
+            "queer studies",
+            "sexuality",
+            "Dance"
+        ],
+        "\nCollege of Arts + Architecture\n": [
+            "Architecture",
+            "arts and community",
+            "community and regional planning",
+            "design",
+            "ecological design",
+            "ecology",
+            "environmental sustainability",
+            "forestry",
+            "hydrology",
+            "landscape ecology",
+            "nature",
+            "sustainability",
+            "sustainable design",
+            "urban design",
+            "urban hydrology",
+            "water",
+            "water quality",
+            "water resources",
+            "water resources planning",
+            "College of Arts + Architecture"
+        ],
+        "\nSchool of Architecture\nSchool of Data Science (SDS)\n": [
+            "Architecture",
+            "computational design",
+            "design",
+            "digital arts",
+            "digital technologies",
+            "interactive architecture",
+            "technology and architecture",
+            "technology integration",
+            "urban design",
+            "urbanism",
+            "School of Architecture",
+            "School of Data Science (SDS)"
+        ]
+    },
+    "cci": {
+        "\nBioinformatics and Genomics\n": [
+            "genomics",
+            "pathogen genetics",
+            "software",
+            "transcriptomics",
+            "visualization",
+            "Bioinformatics and Genomics"
+        ],
+        "\nComputer Science\n": [
+            "computer science",
+            "Computer Science"
+        ],
+        "\nSoftware & Information Systems\n": [
+            "computer science",
+            "Software & Information Systems"
+        ],
+        "\nCollege of Computing & Informatics\n": [
+            "College of Computing & Informatics"
+        ],
+        "\nSchool of Data Science (SDS)\nSoftware & Information Systems\n": [
+            "analytics",
+            "complex systems",
+            "data mining",
+            "data science",
+            "education",
+            "health",
+            "health informatics",
+            "machine learning",
+            "outreach",
+            "social media",
+            "SOPHI",
+            "School of Data Science (SDS)",
+            "Software & Information Systems"
+        ],
+        "\nComputer Science\nSchool of Data Science (SDS)\n": [
+            "automotive robotics",
+            "biochemical analyses",
+            "packaging applications",
+            "robotics",
+            "Computer Science",
+            "School of Data Science (SDS)"
+        ],
+        "\nCollege of Computing & Informatics\nSoftware & Information Systems\n": [
+            "agent-based integration",
+            "agent-based modeling and simulation",
+            "analytics",
+            "collaborative systems",
+            "critical infrastructure protection",
+            "information environments",
+            "meta-level architectures",
+            "secure collaboration architectures",
+            "College of Computing & Informatics",
+            "Software & Information Systems"
+        ],
+        "\nBioinformatics Research Center\n": [
+            "biomedical informatics",
+            "complex diseases",
+            "computational method development and implementation",
+            "high throughput genomic data analysis",
+            "personal genome computing",
+            "personalized medicine",
+            "systems biology",
+            "Bioinformatics Research Center"
+        ],
+        "\nBioinformatics Research Center\nSchool of Data Science (SDS)\n": [
+            "bioinformatics",
+            "gene sequencing",
+            "plant pathologies",
+            "Bioinformatics Research Center",
+            "School of Data Science (SDS)"
+        ],
+        "\nBioinformatics and Genomics\nSchool of Data Science (SDS)\n": [
+            "bioinformatics",
+            "computational biology",
+            "gene sequencing",
+            "plant pathology",
+            "Bioinformatics and Genomics",
+            "School of Data Science (SDS)"
+        ]
+    },
+    "coed": {
+        "\nSchool & Community Partnerships\n": [
+            "School & Community Partnerships"
+        ],
+        "\nCounseling\n": [
+            "Counseling"
+        ],
+        "\nMiddle Grades Secondary & K-12\n": [
+            "Middle Grades Secondary & K-12"
+        ],
+        "\nSpecial Ed & Child Dev\n": [
+            "access to the general curriculum",
+            "alternate assessment",
+            "applied behavior analysis",
+            "students with cognitive disabilities",
+            "students with disabilities",
+            "Special Ed & Child Dev"
+        ],
+        "\nCollege of Education\n": [
+            "faculty motivation",
+            "leadership application",
+            "leadership theory",
+            "research methodology",
+            "Student Motivation",
+            "teacher education",
+            "teacher evaluation",
+            "College of Education"
+        ],
+        "\nEducational Leadership\n": [
+            "Educational Leadership"
+        ],
+        "\nReading & Elementary ED\n": [
+            "Reading & Elementary ED"
+        ],
+        "\nLanguages and Culture Studies\nMiddle Grades Secondary & K-12\n": [
+            "Languages and Culture Studies",
+            "Middle Grades Secondary & K-12"
+        ],
+        "\nMathematics and Statistics\nMiddle Grades Secondary & K-12\n": [
+            "mathematics education",
+            "Mathematics and Statistics",
+            "Middle Grades Secondary & K-12"
+        ],
+        "\nCtr For STEM Education\n": [
+            "Ctr For STEM Education"
+        ]
+    },
+    "chhs": {
+        "\nPublic Health Sciences\n": [
+            "epidemiology of asthma",
+            "occupational epidemiology",
+            "Public Health Sciences"
+        ],
+        "\nKinesiology\n": [
+            "myogenesis",
+            "Kinesiology"
+        ],
+        "\nSchool of Social Work\n": [
+            "child abuse and neglect",
+            "domestic violence",
+            "emergency crisis response",
+            "homelessness",
+            "parent education",
+            "program development",
+            "School of Social Work"
+        ],
+        "\nSchool of Nursing\n": [
+            "African Americans",
+            "cardiovascular disease",
+            "Cardiovascular risk factors",
+            "Medication adherence",
+            "School of Nursing"
+        ],
+        "\nCollege of Health & Human Services\n": [
+            "community health",
+            "health disparities",
+            "health promotion",
+            "public health",
+            "social inequalities",
+            "vulnerable populations",
+            "College of Health & Human Services"
+        ]
+    },
+    "clas": {
+        "\nCommunication Studies\n": [
+            "Communication Pedagogy",
+            "organizational communication",
+            "Qualitative Research Methodology",
+            "Social Change Organizing",
+            "women and leadership",
+            "Communication Studies"
+        ],
+        "\nSociology\n": [
+            "aging",
+            "Family Caregiving",
+            "Sociology"
+        ],
+        "\nPolitical Science and Public Administration\n": [
+            "Political Science and Public Administration"
+        ],
+        "\nGeography and Earth Sciences\n": [
+            "Geography and Earth Sciences"
+        ],
+        "\nPhysics and Optical Science\n": [
+            "Physics and Optical Science"
+        ],
+        "\nWriting, Rhetoric, and Digital Studies\n": [
+            "creative nonfiction",
+            "Digital Portfolios",
+            "Digital Rhetoric",
+            "ePortfolios",
+            "Genre Studies",
+            "Reflection",
+            "Writing, Rhetoric, and Digital Studies"
+        ],
+        "\nBiological Sciences\n": [
+            "Biological Sciences"
+        ],
+        "\nPsychological Science\n": [
+            "Psychological Science"
+        ],
+        "\nMathematics and Statistics\n": [
+            "markov chains",
+            "optimal stochastic control",
+            "stochastic processes",
+            "Mathematics and Statistics"
+        ],
+        "\nEnglish\n": [
+            "contemporary fiction",
+            "creative nonfiction",
+            "creative writing",
+            "Fiction Writing",
+            "English"
+        ],
+        "\nAnthropology\n": [
+            "early cities",
+            "environment",
+            "landscape",
+            "urban populations",
+            "Anthropology"
+        ],
+        "\nHistory\n": [
+            "History"
+        ],
+        "\nCriminal Justice and Criminology\n": [
+            "Criminal Justice and Criminology"
+        ],
+        "\nLanguages and Culture Studies\n": [
+            "Languages and Culture Studies"
+        ],
+        "\nChemistry\n": [
+            "Chemistry"
+        ],
+        "\nCollege of Liberal Arts & Sciences\n": [
+            "College of Liberal Arts & Sciences"
+        ],
+        "\nReligious Studies\n": [
+            "Religious Studies"
+        ],
+        "\nAfricana Studies\n": [
+            "african diaspora",
+            "Africana philosophy",
+            "atlantic history",
+            "civil rights",
+            "colonial history",
+            "human rights",
+            "justice",
+            "law",
+            "race",
+            "religion",
+            "Africana Studies"
+        ],
+        "\nPhilosophy\n": [
+            "Philosophy"
+        ],
+        "\nLanguages and Culture Studies\nMiddle Grades Secondary & K-12\n": [
+            "Languages and Culture Studies",
+            "Middle Grades Secondary & K-12"
+        ],
+        "\nGlobal Studies\n": [
+            "Global Studies"
+        ],
+        "\nMathematics and Statistics\nMiddle Grades Secondary & K-12\n": [
+            "mathematics education",
+            "Mathematics and Statistics",
+            "Middle Grades Secondary & K-12"
+        ],
+        "\nCenter for Applied Geographic Information Science\nGeography and Earth Sciences\nSchool of Data Science (SDS)\n": [
+            "application of artificial intelligence",
+            "computational science",
+            "geographic information science",
+            "intelligent agents",
+            "massive data analysis",
+            "modeling agent",
+            "open science",
+            "software agents",
+            "spatial complexity",
+            "spatial phenomena",
+            "spatial problems",
+            "spatial systems",
+            "virtual organization",
+            "Center for Applied Geographic Information Science",
+            "Geography and Earth Sciences",
+            "School of Data Science (SDS)"
+        ],
+        "\nPhilosophy\nSchool of Data Science (SDS)\n": [
+            "big data ethics and politics",
+            "ethics",
+            "european political theory",
+            "hobbes",
+            "intellectual property rights",
+            "political philosophy",
+            "privacy",
+            "property theory",
+            "spinoza",
+            "Philosophy",
+            "School of Data Science (SDS)"
+        ],
+        "\nCenter for Applied Geographic Information Science\nGeography and Earth Sciences\n": [
+            "air quality",
+            "atmospheric sciences",
+            "carbon cycle",
+            "climate change",
+            "global warming",
+            "lightning",
+            "paleoclimate",
+            "sustainability",
+            "Center for Applied Geographic Information Science",
+            "Geography and Earth Sciences"
+        ]
+    },
+    "college-of-engineering": {
+        "\nMech Engineering & Engineering Sci\n": [
+            "advanced metrology",
+            "diamond turned optics",
+            "precision manufacturing",
+            "self-calibration techniques",
+            "surface form metrology",
+            "Mech Engineering & Engineering Sci"
+        ],
+        "\nEngineering Tech & Constr Mgmt\n": [
+            "continuous improvement",
+            "earth structures",
+            "educational pedagogy",
+            "finite element analysis",
+            "geotechnical engineering",
+            "outcomes assessment",
+            "probabilistic modeling",
+            "risk analysis",
+            "Engineering Tech & Constr Mgmt"
+        ],
+        "\nElectrical & Computer Engineering\n": [
+            "design",
+            "device physics",
+            "electrochemistry",
+            "fabrication",
+            "modeling",
+            "opto-electronic devices",
+            "solar cells",
+            "surface passivation",
+            "Electrical & Computer Engineering"
+        ],
+        "\nSystems Engin & Engin Management\n": [
+            "business case development",
+            "business forecasting",
+            "customer-oriented product development",
+            "customer-oriented strategic planning",
+            "global product development",
+            "global product innovation",
+            "global product marketing",
+            "market analyses studies",
+            "market feasibility studies",
+            "quality management",
+            "Systems Engin & Engin Management"
+        ],
+        "\nEPIC\n": [
+            "EPIC"
+        ],
+        "\nStudent Dev & Success\n": [
+            "Student Dev & Success"
+        ],
+        "\nCivil and Environmental Engr\n": [
+            "bridge monitoring",
+            "co2 sequestration",
+            "coal mines",
+            "damage detection",
+            "gas mines",
+            "in oil mines",
+            "modal testing",
+            "remote sensing",
+            "soil dynamics",
+            "Civil and Environmental Engr"
+        ],
+        "\nSchool of Data Science (SDS)\nSystems Engin & Engin Management\n": [
+            "energy forecasting",
+            "energy trading",
+            "power systems operations",
+            "power systems planning",
+            "renewable integration",
+            "retail forecasting",
+            "revenue optimization",
+            "risk management",
+            "School of Data Science (SDS)",
+            "Systems Engin & Engin Management"
+        ],
+        "\nElectrical & Computer Engineering\nSchool of Data Science (SDS)\n": [
+            "discrete-time signal processing",
+            "electric machinery",
+            "Electrical & Computer Engineering",
+            "School of Data Science (SDS)"
+        ]
+    },
+    "school-of-data-science-sds": {
+        "\nSchool of Data Science (SDS)\n": [
+            "School of Data Science (SDS)"
+        ],
+        "\nBusiness Info Systems/Operations\nSchool of Data Science (SDS)\n": [
+            "OM-marketing interface",
+            "operations management",
+            "supply chain coordination",
+            "supply chain management",
+            "Business Info Systems/Operations",
+            "School of Data Science (SDS)"
+        ],
+        "\nManagement\nSchool of Data Science (SDS)\n": [
+            "Management",
+            "School of Data Science (SDS)"
+        ],
+        "\nMarketing\nSchool of Data Science (SDS)\n": [
+            "culture",
+            "culture and consumers",
+            "customer relationship management",
+            "marketing analytics",
+            "movie marketing",
+            "social media",
+            "text mining",
+            "Marketing",
+            "School of Data Science (SDS)"
+        ],
+        "\nSchool of Data Science (SDS)\nSystems Engin & Engin Management\n": [
+            "energy forecasting",
+            "energy trading",
+            "power systems operations",
+            "power systems planning",
+            "renewable integration",
+            "retail forecasting",
+            "revenue optimization",
+            "risk management",
+            "School of Data Science (SDS)",
+            "Systems Engin & Engin Management"
+        ],
+        "\nElectrical & Computer Engineering\nSchool of Data Science (SDS)\n": [
+            "discrete-time signal processing",
+            "electric machinery",
+            "Electrical & Computer Engineering",
+            "School of Data Science (SDS)"
+        ],
+        "\nSchool of Architecture\nSchool of Data Science (SDS)\n": [
+            "Architecture",
+            "computational design",
+            "design",
+            "digital arts",
+            "digital technologies",
+            "interactive architecture",
+            "technology and architecture",
+            "technology integration",
+            "urban design",
+            "urbanism",
+            "School of Architecture",
+            "School of Data Science (SDS)"
+        ],
+        "\nSchool of Data Science (SDS)\nSoftware & Information Systems\n": [
+            "computer integrated manufacturing",
+            "cyber security",
+            "electronic commerce",
+            "enterprise integration",
+            "information privacy",
+            "information security",
+            "School of Data Science (SDS)",
+            "Software & Information Systems"
+        ],
+        "\nComputer Science\nSchool of Data Science (SDS)\n": [
+            "automotive robotics",
+            "biochemical analyses",
+            "packaging applications",
+            "robotics",
+            "Computer Science",
+            "School of Data Science (SDS)"
+        ],
+        "\nBioinformatics Research Center\nSchool of Data Science (SDS)\n": [
+            "bioinformatics",
+            "gene sequencing",
+            "plant pathologies",
+            "Bioinformatics Research Center",
+            "School of Data Science (SDS)"
+        ],
+        "\nBioinformatics and Genomics\nSchool of Data Science (SDS)\n": [
+            "bioinformatics",
+            "computational biology",
+            "gene sequencing",
+            "plant pathology",
+            "Bioinformatics and Genomics",
+            "School of Data Science (SDS)"
+        ],
+        "\nCenter for Applied Geographic Information Science\nGeography and Earth Sciences\nSchool of Data Science (SDS)\n": [
+            "application of artificial intelligence",
+            "computational science",
+            "geographic information science",
+            "intelligent agents",
+            "massive data analysis",
+            "modeling agent",
+            "open science",
+            "software agents",
+            "spatial complexity",
+            "spatial phenomena",
+            "spatial problems",
+            "spatial systems",
+            "virtual organization",
+            "Center for Applied Geographic Information Science",
+            "Geography and Earth Sciences",
+            "School of Data Science (SDS)"
+        ],
+        "\nPhilosophy\nSchool of Data Science (SDS)\n": [
+            "big data ethics and politics",
+            "ethics",
+            "european political theory",
+            "hobbes",
+            "intellectual property rights",
+            "political philosophy",
+            "privacy",
+            "property theory",
+            "spinoza",
+            "Philosophy",
+            "School of Data Science (SDS)"
+        ]
+    }
+}
