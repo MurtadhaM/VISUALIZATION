@@ -1,0 +1,60 @@
+{
+  "UNCC": {
+    "Total Publications": 11324,
+    "Colleges": [
+      {
+        "Name": "Belk College of Business",
+        "Faculty": 163,
+        "College Publications": 192,
+        "Department": [
+          {
+            "Name": "Accounting",
+            "Department Publications": 58,
+            "Faculty": [
+              {
+                "Name": "Bojan Cukic",
+                "Link": "http://test.uncc.edu",
+                "Publications": 29
+              },
+              {
+                "Name": "Test Name",
+                "Link": "http://test.uncc.edu",
+                "Publications": 12
+              }
+            ],
+            "Keywords": [
+              {
+                "Keyword": "Diversity",
+                "Publications": 21
+              },
+              {
+                "Keyword": "Test",
+                "Publications": 21
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "College of Computing & Informatics",
+        "Faculty": 163,
+        "Total Publications": 192,
+        "Department": [
+          {
+            "Name": "Business",
+            "Keywords": [
+              {
+                "Keyword": "Test",
+                "publications": 21
+              },
+              {
+                "Keyword": "Test",
+                "Publications": 21
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

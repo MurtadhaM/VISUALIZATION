@@ -173,14 +173,13 @@ def get_information(url):
     department = soup.find('div', class_='connection-groups').text.strip()
     academic_interests = soup.find('div', class_='connection-links columns-2').text.strip()
     name = soup.find('div', class_='page-title').text.strip()
-    bio = soup.find('div', class_='post-contents').text.strip()
+
     link = url
     staff_member = {}
     staff_member['link'] = link
     staff_member['name'] = name
     staff_member['department'] = department
     staff_member['academic_interests'] = academic_interests
-    staff_member['bio'] = bio
     
     
     return staff_member
@@ -218,7 +217,6 @@ def read_file(filename):
     except Exception as e:
         print('Error reading file')
         print(e)
-
 
 
 
@@ -272,12 +270,18 @@ def filter_visited():
 
 
 
+    
+    
+    
+    
 
 # removing the visited links from the links
 filtered_links = filter_visited()
 # to query information from the website with a stop condition
 get_all_links(filtered_links, 5)
 
+for link in filtered_links():
+    print(add_staff(link))
 # This is the main function that will be called to get the links to the staff members
 
 

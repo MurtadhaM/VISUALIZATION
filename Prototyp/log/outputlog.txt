@@ -1,0 +1,111 @@
+[
+    {
+        "link": "https://pages.charlotte.edu/connections/people/jwalla52/",
+        "name": "Jennifer Wallace",
+        "department": "Art & Art History",
+        "academic_interests": "art\ninstallation\ninterior and exterior spaces\nmultimedia\nnature\nperformance\n\n\nperformance art\nprintmaking\nsociety\nvideo\nvisual arts",
+        "bio": "Jennifer Marie Wallace is a Lecturer of Foundations in the Department of Art & Art History. Wallace is a South Carolina native whose work evaluates patterns within sites, histories, and people. She received her BFA from the University of South Carolina and her MFA from Arizona State University. She is trained as a printmaker but her work takes the form of performance, installation, video, & multi-media. Her work has been shown nationally and internationally. Her research explores the ideas of interior and exterior as they juxtapose the relationship between society and nature.\nSee her faculty profile at coaa.uncc.edu >>"
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/jwalla52/",
+        "name": "Jennifer Wallace",
+        "department": "Art & Art History",
+        "academic_interests": "art\ninstallation\ninterior and exterior spaces\nmultimedia\nnature\nperformance\n\n\nperformance art\nprintmaking\nsociety\nvideo\nvisual arts",
+        "bio": "Jennifer Marie Wallace is a Lecturer of Foundations in the Department of Art & Art History. Wallace is a South Carolina native whose work evaluates patterns within sites, histories, and people. She received her BFA from the University of South Carolina and her MFA from Arizona State University. She is trained as a printmaker but her work takes the form of performance, installation, video, & multi-media. Her work has been shown nationally and internationally. Her research explores the ideas of interior and exterior as they juxtapose the relationship between society and nature.\nSee her faculty profile at coaa.uncc.edu >>"
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/jburke43/",
+        "name": "Jessica \u201cJ.B.\u201d Burke",
+        "department": "Art & Art History",
+        "academic_interests": "art\nart history\nart pedagogy\nart theory and practice\ndrawing\ngender\n\n\nidentity\nmass media\npainting\npopular culture\nportraiture\nvisual arts",
+        "bio": "Jessica \u201cJB\u201d Burke is an Associate Professor and Foundation Coordinator in the Department of Art & Art History. She teaches Foundations in Art and is the Foundations area coordinator. She is very invested in foundations pedagogy and serves as an elected member on the national board of Foundations in Art: Theory and Practice (FATE). She also was elected to the national board of Integrative Teaching International (ITI) where she serves as Associate Vice President of Programming. As an artist, she is interested in the effect of popular culture on identity. Her creative work has been included in competitive juried and solo exhibitions nationally and internationally. Her work is in many private, state and corporate collections that include the City of North Charleston, South Carolina; the City of Savannah, Georgia; Seminole State College, Florida and the National Living Treasure Museum in Yugawara, Japan.\n\nSee more on her faculty profile at coaa.uncc.edu >>"
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/jwalla52/",
+        "name": "Jennifer Wallace",
+        "department": "Art & Art History",
+        "academic_interests": "art\ninstallation\ninterior and exterior spaces\nmultimedia\nnature\nperformance\n\n\nperformance art\nprintmaking\nsociety\nvideo\nvisual arts",
+        "bio": "Jennifer Marie Wallace is a Lecturer of Foundations in the Department of Art & Art History. Wallace is a South Carolina native whose work evaluates patterns within sites, histories, and people. She received her BFA from the University of South Carolina and her MFA from Arizona State University. She is trained as a printmaker but her work takes the form of performance, installation, video, & multi-media. Her work has been shown nationally and internationally. Her research explores the ideas of interior and exterior as they juxtapose the relationship between society and nature.\nSee her faculty profile at coaa.uncc.edu >>"
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/jburke43/",
+        "name": "Jessica \u201cJ.B.\u201d Burke",
+        "department": "Art & Art History",
+        "academic_interests": "art\nart history\nart pedagogy\nart theory and practice\ndrawing\ngender\n\n\nidentity\nmass media\npainting\npopular culture\nportraiture\nvisual arts",
+        "bio": "Jessica \u201cJB\u201d Burke is an Associate Professor and Foundation Coordinator in the Department of Art & Art History. She teaches Foundations in Art and is the Foundations area coordinator. She is very invested in foundations pedagogy and serves as an elected member on the national board of Foundations in Art: Theory and Practice (FATE). She also was elected to the national board of Integrative Teaching International (ITI) where she serves as Associate Vice President of Programming. As an artist, she is interested in the effect of popular culture on identity. Her creative work has been included in competitive juried and solo exhibitions nationally and internationally. Her work is in many private, state and corporate collections that include the City of North Charleston, South Carolina; the City of Savannah, Georgia; Seminole State College, Florida and the National Living Treasure Museum in Yugawara, Japan.\n\nSee more on her faculty profile at coaa.uncc.edu >>"
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/jffrakes/",
+        "name": "Jim Frakes",
+        "department": "Art & Art History",
+        "academic_interests": "ancient Gaul\nancient Greece\nancient Greek art\nancient mediterranean\nancient near east\nancient Roman art\nancient Roman urbanism\nancient Rome\nancient urbanism\nart\nart history\ncultural history\n\n\nculture\nethics\nMediterranean architecture\nroman architecture\nRoman art history\nRoman visual culture\nRome\nsocial identity\nvisual arts\nvisual cultural systems\nvisual culture",
+        "bio": "Jim Frakes is an Associate Professor of Art History in the Department of Art & Art History. His book,\u00a0Framing Public Life: the Portico in Roman Gaul\u00a0(2009) looks at the installation of a common Mediterranean architectural form in the Gallic provinces, and analyzes how the colonnaded walkway both promoted and sustained new forms of social identity. He has recently contributed an essay on the forum as a Roman urban phenomenon for Blackwell\u2019s\u00a0A\u00a0Companion to Roman Architecture (2013) and is co-editor of\u00a0Beyond Boundaries: Visual Culture in the Roman Provinces\u00a0(2016) from the Getty Press. His current work focuses on the visual cultural systems that marked the era of the Severan Dynasty (193-235 CE). \n\nSee more on his faculty profile at coaa.uncc.edu >>"
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/jwalla52/",
+        "name": "Jennifer Wallace",
+        "department": "Art & Art History",
+        "academic_interests": "art\ninstallation\ninterior and exterior spaces\nmultimedia\nnature\nperformance\n\n\nperformance art\nprintmaking\nsociety\nvideo\nvisual arts",
+        "bio": "Jennifer Marie Wallace is a Lecturer of Foundations in the Department of Art & Art History. Wallace is a South Carolina native whose work evaluates patterns within sites, histories, and people. She received her BFA from the University of South Carolina and her MFA from Arizona State University. She is trained as a printmaker but her work takes the form of performance, installation, video, & multi-media. Her work has been shown nationally and internationally. Her research explores the ideas of interior and exterior as they juxtapose the relationship between society and nature.\nSee her faculty profile at coaa.uncc.edu >>"
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/jburke43/",
+        "name": "Jessica \u201cJ.B.\u201d Burke",
+        "department": "Art & Art History",
+        "academic_interests": "art\nart history\nart pedagogy\nart theory and practice\ndrawing\ngender\n\n\nidentity\nmass media\npainting\npopular culture\nportraiture\nvisual arts",
+        "bio": "Jessica \u201cJB\u201d Burke is an Associate Professor and Foundation Coordinator in the Department of Art & Art History. She teaches Foundations in Art and is the Foundations area coordinator. She is very invested in foundations pedagogy and serves as an elected member on the national board of Foundations in Art: Theory and Practice (FATE). She also was elected to the national board of Integrative Teaching International (ITI) where she serves as Associate Vice President of Programming. As an artist, she is interested in the effect of popular culture on identity. Her creative work has been included in competitive juried and solo exhibitions nationally and internationally. Her work is in many private, state and corporate collections that include the City of North Charleston, South Carolina; the City of Savannah, Georgia; Seminole State College, Florida and the National Living Treasure Museum in Yugawara, Japan.\n\nSee more on her faculty profile at coaa.uncc.edu >>"
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/jffrakes/",
+        "name": "Jim Frakes",
+        "department": "Art & Art History",
+        "academic_interests": "ancient Gaul\nancient Greece\nancient Greek art\nancient mediterranean\nancient near east\nancient Roman art\nancient Roman urbanism\nancient Rome\nancient urbanism\nart\nart history\ncultural history\n\n\nculture\nethics\nMediterranean architecture\nroman architecture\nRoman art history\nRoman visual culture\nRome\nsocial identity\nvisual arts\nvisual cultural systems\nvisual culture",
+        "bio": "Jim Frakes is an Associate Professor of Art History in the Department of Art & Art History. His book,\u00a0Framing Public Life: the Portico in Roman Gaul\u00a0(2009) looks at the installation of a common Mediterranean architectural form in the Gallic provinces, and analyzes how the colonnaded walkway both promoted and sustained new forms of social identity. He has recently contributed an essay on the forum as a Roman urban phenomenon for Blackwell\u2019s\u00a0A\u00a0Companion to Roman Architecture (2013) and is co-editor of\u00a0Beyond Boundaries: Visual Culture in the Roman Provinces\u00a0(2016) from the Getty Press. His current work focuses on the visual cultural systems that marked the era of the Severan Dynasty (193-235 CE). \n\nSee more on his faculty profile at coaa.uncc.edu >>"
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/kbryant/",
+        "name": "Keith Bryant",
+        "department": "Art & Art History",
+        "academic_interests": "3d art\nart\nceramics\nmetal\n\n\nsculpture\nvisual arts\nwood",
+        "bio": "Keith Bryant is a lecturer in ceramics and sculpture in the Department of Art & Art History. He creates work from a place that exists beyond the confines of language yet enhances the realm of understanding riddles in life, connection, and independence. Working in wood, metals, and ceramics his forms employ abstraction but not without metaphor. His sculptures address ideas of loneliness, isolation, architecture, and landscape. His work has been exhibited nationally and held in corporate collections throughout the southeast and mountain states.\nAs an educator in the arts for over two decades, Keith has taught for UNC Charlotte in the Department of Art & Art History since 2000.\u00a0 His instructional focus is ceramics, sculpture, and three-dimensional design.\u00a0 A move in 1990 brought him to Charlotte, NC for the first time to teach at Central Piedmont Community College after teaching at the University of South Carolina, Columbia. He holds an MFA from Cranbrook Academy of Art, a BFA from Colorado State University, and a residency at Philadelphia College of Art \u2013 today known as the University of the Arts.\nSee more on his faculty profile at coaa.uncc.edu >>"
+    }
+][
+    {
+        "link": "https://pages.charlotte.edu/connections/people/jwalla52/",
+        "name": "Jennifer Wallace",
+        "department": "Art & Art History",
+        "academic_interests": "art\ninstallation\ninterior and exterior spaces\nmultimedia\nnature\nperformance\n\n\nperformance art\nprintmaking\nsociety\nvideo\nvisual arts",
+        "bio": "Jennifer Marie Wallace is a Lecturer of Foundations in the Department of Art & Art History. Wallace is a South Carolina native whose work evaluates patterns within sites, histories, and people. She received her BFA from the University of South Carolina and her MFA from Arizona State University. She is trained as a printmaker but her work takes the form of performance, installation, video, & multi-media. Her work has been shown nationally and internationally. Her research explores the ideas of interior and exterior as they juxtapose the relationship between society and nature.\nSee her faculty profile at coaa.uncc.edu >>"
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/jburke43/",
+        "name": "Jessica \u201cJ.B.\u201d Burke",
+        "department": "Art & Art History",
+        "academic_interests": "art\nart history\nart pedagogy\nart theory and practice\ndrawing\ngender\n\n\nidentity\nmass media\npainting\npopular culture\nportraiture\nvisual arts",
+        "bio": "Jessica \u201cJB\u201d Burke is an Associate Professor and Foundation Coordinator in the Department of Art & Art History. She teaches Foundations in Art and is the Foundations area coordinator. She is very invested in foundations pedagogy and serves as an elected member on the national board of Foundations in Art: Theory and Practice (FATE). She also was elected to the national board of Integrative Teaching International (ITI) where she serves as Associate Vice President of Programming. As an artist, she is interested in the effect of popular culture on identity. Her creative work has been included in competitive juried and solo exhibitions nationally and internationally. Her work is in many private, state and corporate collections that include the City of North Charleston, South Carolina; the City of Savannah, Georgia; Seminole State College, Florida and the National Living Treasure Museum in Yugawara, Japan.\n\nSee more on her faculty profile at coaa.uncc.edu >>"
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/jffrakes/",
+        "name": "Jim Frakes",
+        "department": "Art & Art History",
+        "academic_interests": "ancient Gaul\nancient Greece\nancient Greek art\nancient mediterranean\nancient near east\nancient Roman art\nancient Roman urbanism\nancient Rome\nancient urbanism\nart\nart history\ncultural history\n\n\nculture\nethics\nMediterranean architecture\nroman architecture\nRoman art history\nRoman visual culture\nRome\nsocial identity\nvisual arts\nvisual cultural systems\nvisual culture",
+        "bio": "Jim Frakes is an Associate Professor of Art History in the Department of Art & Art History. His book,\u00a0Framing Public Life: the Portico in Roman Gaul\u00a0(2009) looks at the installation of a common Mediterranean architectural form in the Gallic provinces, and analyzes how the colonnaded walkway both promoted and sustained new forms of social identity. He has recently contributed an essay on the forum as a Roman urban phenomenon for Blackwell\u2019s\u00a0A\u00a0Companion to Roman Architecture (2013) and is co-editor of\u00a0Beyond Boundaries: Visual Culture in the Roman Provinces\u00a0(2016) from the Getty Press. His current work focuses on the visual cultural systems that marked the era of the Severan Dynasty (193-235 CE). \n\nSee more on his faculty profile at coaa.uncc.edu >>"
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/kbryant/",
+        "name": "Keith Bryant",
+        "department": "Art & Art History",
+        "academic_interests": "3d art\nart\nceramics\nmetal\n\n\nsculpture\nvisual arts\nwood",
+        "bio": "Keith Bryant is a lecturer in ceramics and sculpture in the Department of Art & Art History. He creates work from a place that exists beyond the confines of language yet enhances the realm of understanding riddles in life, connection, and independence. Working in wood, metals, and ceramics his forms employ abstraction but not without metaphor. His sculptures address ideas of loneliness, isolation, architecture, and landscape. His work has been exhibited nationally and held in corporate collections throughout the southeast and mountain states.\nAs an educator in the arts for over two decades, Keith has taught for UNC Charlotte in the Department of Art & Art History since 2000.\u00a0 His instructional focus is ceramics, sculpture, and three-dimensional design.\u00a0 A move in 1990 brought him to Charlotte, NC for the first time to teach at Central Piedmont Community College after teaching at the University of South Carolina, Columbia. He holds an MFA from Cranbrook Academy of Art, a BFA from Colorado State University, and a residency at Philadelphia College of Art \u2013 today known as the University of the Arts.\nSee more on his faculty profile at coaa.uncc.edu >>"
+    },
+    {
+        "link": "https://pages.charlotte.edu/connections/people/krothroc/",
+        "name": "Kristin Rothrock",
+        "department": "Art & Art History",
+        "academic_interests": "2d art\nart\nbook arts\ndrawing\nfibers\nfigure drawing\n\n\nfoundations\ngraphic arts\npaper making\nprintmaking\nvisual arts",
+        "bio": "Kristin Rothrock began teaching at UNC Charlotte in 2000. She is a Senior Lecturer in Art Foundations in the Department of Art & Art History and teaches Book Arts and Paper Making. Rothrock has an MFA in Graphic Arts from the University of Wisconsin-Madison and a BS in Studio Art/Printmaking from Skidmore College.\nSee her faculty profile at coaa.uncc.edu >>"
+    }
+]
