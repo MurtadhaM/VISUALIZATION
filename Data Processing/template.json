@@ -1,0 +1,49 @@
+{
+    "uncc": {
+      "total_publications": 11324,
+      "colleges": [
+        {
+          "name": "Belk College of Business",
+          "faculty": 163,
+          "college_publications": 192,
+          "department": [
+            {
+              "name": "business",
+              "dept_publications": 58,
+              "keywords": [
+                {
+                  "keyword": "test",
+                  "publications": 21
+                },
+                {
+                  "keyword": "test",
+                  "publications": 21
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "College Computing and Informatics",
+          "faculty": 163,
+          "total_publications": 192,
+          "department": [
+            {
+              "name": "business",
+              "keywords": [
+                {
+                  "keyword": "test",
+                  "publications": 21
+                },
+                {
+                  "keyword": "test",
+                  "publications": 21
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+  
