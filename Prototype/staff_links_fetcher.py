@@ -179,8 +179,8 @@ def get_information(url):
     staff_member['link'] = link
     staff_member['name'] = name
     staff_member['department'] = department
-    staff_member['academic_interests'] = academic_interests
-    staff_member['bio'] = bio
+    staff_member['academic_interests'] = academic_interests.replace('\n', ' ')
+    staff_member['bio'] = bio.replace('\n', ' ')
     
     
     return staff_member
@@ -203,7 +203,8 @@ def add_staff(url):
 def write_file(filename, data):
     try:
         with open(filename, 'a') as file:
-            json.dump(data, file, indent=4)
+            json.dump(data, file, indent=4  )
+#            file.write(data)
             print(filename + ' written successfully')
     except Exception as e:
         print('Error writing ' + filename)
@@ -262,7 +263,8 @@ def get_all_links(links, limit):
 # Filter the links to remove the ones that have already been visited
 
 def filter_visited():
-    links = pd.read_csv('log/staff_links.csv').get('value').astype(str).tolist()
+    links = pd.read_csv('log/staff_links.csv').get('link').astype(str).tolist()
+    print(links)
     filtered_links = []
     for link in links:
         if   link not in visited_urls:
@@ -271,14 +273,17 @@ def filter_visited():
 
 
 
-
+setup_initial_links()
 
 # removing the visited links from the links
 filtered_links = filter_visited()
 # to query information from the website with a stop condition
-get_all_links(filtered_links, 5)
+get_all_links(filtered_links, 500)
 
 # This is the main function that will be called to get the links to the staff members
 
 
+# testing the convert_to_json function
+original_df = pd.read_csv('log/staff_info.csv')
+original_df.to_json('log/staff_info.json'  , orient='records')
 

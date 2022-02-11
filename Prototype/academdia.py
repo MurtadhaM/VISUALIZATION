@@ -18,30 +18,6 @@ def write_file(filename, data):
         print('Error writing ' + filename)
         print(e)
         
-def scholars_fetch():
-    print('Setting up initial links')
-    url = 'https://ninercommons.charlotte.edu/islandora/object/ir:scholars'
-        # fetching the html file
-    response = requests.get(url)
-    soup = BeautifulSoup(response.content , 'lxml')
-    print('parsing elements to extract links')
-
-    scholars  =  soup.find_all('dt',  {'class' : 'islandora-object-thumb'} )
-
-
-    scholars_links = {
-        
-        
-        'scholar' : "https://ninercommons.charlotte.edu/islandora/object/",
-    }
-
-    for scholar in scholars:
-        scholars_links[scholar.find('a').get('title')] =  'https://ninercommons.charlotte.edu' + scholar.find('a').get('href').replace('%3A', ':') 
-
-    scholar_pd = pd.DataFrame(columns=['scholar_name', 'scholar_link'], data=scholars_links.items())
-    scholar_pd.to_csv('log/scholars_links.csv', index=False)
-    write_file('log/http_log_scholars.txt' ,scholar_pd)
-
 
 
 def departments_fetch():
@@ -54,19 +30,38 @@ def departments_fetch():
     links = {
         
     }
+    
     for value in colleges:
         for tag in value.find_all('a'):   
              if 'group' in tag.get('href'):
                  links[tag.text] =  tag.get('href')
+#                 print(tag.text)
         
-        
+    
+    
     group_pd = pd.DataFrame(columns=['group', 'link'], data=links.items())
     group_pd.to_csv('log/group_links.csv', index=False)
 
+
+    
     print(links)
     return links
 
-#links_fetch()
+def get_college():
+    bussiness = ['Business Info Systems/Operations',
+    'Economics',
+    'Finance',
+    'Management',
+    'Marketing',
+    'Turner School of Accountancy']    
+    arts = ['Art & Art History'
+'Dance',
+'Music',
+'Performing Arts Services',
+'School of Architecture',
+'Theatre']
+    
+
 
 
 def topic_fetch():
