@@ -47,20 +47,6 @@ def departments_fetch():
     print(links)
     return links
 
-def get_college():
-    bussiness = ['Business Info Systems/Operations',
-    'Economics',
-    'Finance',
-    'Management',
-    'Marketing',
-    'Turner School of Accountancy']    
-    arts = ['Art & Art History'
-'Dance',
-'Music',
-'Performing Arts Services',
-'School of Architecture',
-'Theatre']
-    
 
 
 
