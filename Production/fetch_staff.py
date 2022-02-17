@@ -4,13 +4,10 @@
 # Description: This is the main file for the program that will be used to scrape the website and save the data in a json file or csv
 
 import json
-from tkinter import N
 import requests
 from bs4 import BeautifulSoup
 import re
 import json
-import bs4
-import pandas as pd
 
 # FLAGS:
 
@@ -81,8 +78,8 @@ def departments_fetch():
         
     }
     
-    for value in colleges:
-        for tag in value.find_all('a'):   
+    for value in departments:
+        for tag in value.g('a'):   
             # print(value.find_all('a')[0].text)
             if 'group' in tag.get('href'):
                 links[tag.text] = tag.get('href')
@@ -134,49 +131,24 @@ def get_information(url):
 
     
 def setup_crawing():
-    print('Setting up links links')
-    # Setting up a staff member
-    staff_member = {}
-
-
-    url = 'https://pages.charlotte.edu/connections/' 
-    response = requests.get(url +'?s')
     
-    soup = BeautifulSoup(response.content , 'lxml')
-    numberofpages = soup.find_all('span', {'class' : 'pages'})
-    num =str(numberofpages).split('of')[1].strip().split('<')[0].strip()
-#    print(soup.find_all('span' ))
-    print(num)
-
-    # get new url for each page
-    for number in range(40):
-        next_url = url + 'pages/' +  str(number + 1) + '/?s'         
-        print(next_url)
-
-        # get the links for each page
-        soup  = BeautifulSoup(requests.get(next_url).text, 'html.parser')
-        # values = soup.find('div')     
-        # print(values)
-        names = soup.find('h2', {'class' : 'entry-title'})
-        print(names)
-
-        # looping through the pages
+    response = requests.get('https://pages.charlotte.edu/connections/group')
+    soap = BeautifulSoup(response.content, 'lxml')
+    for value in departments:
+        for tag in value.g('a'):   
+            if 'group' in tag.get('href'):
+                
+                # Appending the links to the dictionary
+                for t in ['Belk College of Business', 'College of Arts & Architecture', 'College of Computing & Informatics', 'College of Education', 'College of Health & Human Services', 'College of Liberal Arts & Sciences', 'Lee College of Engineering', 'School of Data Science (SDS)']:
+                    for p in departments[t].keys():
+                        if str(p).strip() in tag.text:
+                            departments[t][p]['links'] = tag.get('href')
+    return departments                        
 
 
-        # print('parsing elements to extract links')
-        # people = soup.find_all('a' , href=re.compile('people'))
-    
 
 
-        # # removing other people links
-        # for link in people:
-        #     if 'title' in link.attrs:
-        #         staff_member[link.text] = link.get('href')
-        # print(staff_member)
-        # print('number of people: ' + str(len(people)))
 
-    
-    
             
 setup_crawing()
     
