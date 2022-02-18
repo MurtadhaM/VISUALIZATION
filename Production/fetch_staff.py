@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.10
+w#!/usr/bin/env python3.10
 # -*- coding: utf-8 -*-
 # Author: Murtadha Marzouq
 # Description: This is the main file for the program that will be used to scrape the website and save the data in a json file or csv
