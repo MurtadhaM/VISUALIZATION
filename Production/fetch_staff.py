@@ -1,18 +1,29 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3.10
 # -*- coding: utf-8 -*-
 # Author: Murtadha Marzouq
 # Description: This is the main file for the program that will be used to scrape the website and save the data in a json file or csv
 
+import html
 import json
 import requests
 from bs4 import BeautifulSoup
 import re
 import json
+from pandasql import sqldf 
+import pandas as pd
 
 # FLAGS:
 
 # Tor Setup
 TOR_FLAG = False
+
+visited_urls = open('Production/links.csv', 'r').read().split('\n')
+
+def visited(url):
+
+        with open('Production/visited', 'a') as file:
+            file.write(url + '\n')
+
 
 # TODO
 # support sessions by checking for stored staff info and if they don't exist then get them from the website --Completed
@@ -22,6 +33,9 @@ TOR_FLAG = False
 
 # visited_urls = open('log/visited_urls', 'r').read().split('\n')
 
+
+# a master array to store all the staff members
+All_STAFF_INFOMATION = []
 
 # first start tor service on port 9050 by running the command:
 # tor SocksPort 9050
@@ -67,6 +81,7 @@ departments['Lee College of Engineering'] = {'Civil and Environmental Engr': {},
 departments['School of Data Science (SDS)'] = {}
 
 
+
 def departments_fetch():
     print('Setting up links links')
     url = 'https://pages.charlotte.edu/connections/'
@@ -74,12 +89,13 @@ def departments_fetch():
     soup = BeautifulSoup(response.content , 'lxml')
     print('parsing elements to extract links')
     colleges = soup.find_all('div', {'id' : 'collapscat-2'})
+    print(colleges)
     links = {
         
     }
     
     for value in departments:
-        for tag in value.g('a'):   
+        for tag in value.get('a'):   
             # print(value.find_all('a')[0].text)
             if 'group' in tag.get('href'):
                 links[tag.text] = tag.get('href')
@@ -93,17 +109,6 @@ def departments_fetch():
     
 # Checking for tor connection 
 requests = get_tor_session()
-
-
-
-# departments = departments_fetch()    
-
-# setup_initial_links()
-# to print the links in the json file
-# print(json.dumps(departments))
-    
-    
-
 
 
 
@@ -123,60 +128,99 @@ def get_information(url):
     staff_member['link'] = link
     staff_member['name'] = name
     staff_member['department'] = department
+    staff_member['college'] =  departments.get(department)
+    print(staff_member)
     staff_member['academic_interests'] = academic_interests.replace('\n', ' ')
     staff_member['bio'] = bio.replace('\n', ' ')
-    
-    
     return staff_member
 
     
-def setup_crawing():
+                       
+
+
+
+def query_csv(csv_file, query):
+    pysqldf = lambda q: sqldf(q, globals())
+    output = pysqldf(query)
+    return output
+        ## TESTIING: 
+    #csv = pd.read_csv('Prototype/Data/staff_info.csv')
+    #csv2 = pd.read_csv('Prototype/log/staff_links.csv')
+    #print(query_csv(csv, 'select * from csv where bio is not null'))
+    #print(query_csv(csv2, 'select * from csv2 '))
+
+
+
     
-    response = requests.get('https://pages.charlotte.edu/connections/group')
-    soap = BeautifulSoup(response.content, 'lxml')
-    for value in departments:
-        for tag in value.g('a'):   
-            if 'group' in tag.get('href'):
-                
-                # Appending the links to the dictionary
-                for t in ['Belk College of Business', 'College of Arts & Architecture', 'College of Computing & Informatics', 'College of Education', 'College of Health & Human Services', 'College of Liberal Arts & Sciences', 'Lee College of Engineering', 'School of Data Science (SDS)']:
-                    for p in departments[t].keys():
-                        if str(p).strip() in tag.text:
-                            departments[t][p]['links'] = tag.get('href')
-    return departments                        
+
+# departments = departments_fetch()    
+
+# setup_initial_links()
+# to print the links in the json file
+# print(json.dumps(departments))
 
 
+# fetching the departments            
+#department_per_college = setup_crawing()
+#print(department_per_college)
 
 
+# to add the staff members to the an array to be written to a csv or a json file
+def add_staff(url):
+    try:
+        print('Adding staff')
+        new_staff = get_information(url)
+        All_STAFF_INFOMATION.append(new_staff)
+        print(new_staff['name'] +  ' added successfully')
+        
+        
+    except Exception as e:
+        print('error adding staff')
+        print(e)
+        
+# fetching the script for each staff member
 
+def start():
+    links = pd.read_csv('Production/links.csv').head(5)    
+    
+    for link in links['links'] :
+        print(link)
+        if  'people' in  link :
+            print(link)
+            staff = get_information(link)
+            print(staff)
+    return links
+
+
+def filter_visited():
+    links = pd.read_csv('Production/links.csv').get('links').astype(str).tolist()
+    #print(links)
+    
+    for link in str(links).split('\n'):
+        if   link not in visited_urls:
+            filtered_links.append(link)
+        
+    return filtered_links
+
+def get_all_links(links, limit):
+    original_df = pd.read_csv('Production/staff_info.csv')
+    for i in range(0, limit):
+        url = links[i]
+        visited(url)    
+        add_staff(url)
+        
+                  
+        
             
-setup_crawing()
-    
-#print(anchor)
-# To get the links for stafff:
-# DATA SCIENCE:
+        staff_info_df = pd.DataFrame(All_STAFF_INFOMATION)    
+        staff_info_df =staff_info_df.append(original_df)
+        staff_info_df.to_csv('Production/staff_info.csv', index=False)
 
-# collapsItems['collapsCat-5698:2']
+        print(str(All_STAFF_INFOMATION.__len__() )+ ' staff members added for a total of ' + str(len(staff_info_df) ))
 
-# Lee College of Engineering
-# collapsItems['collapsCat-2104:2']
-
-# College of Liberal Arts & Sciences
-# collapsItems['collapsCat-1846:2']
-
-# College of Health & Human Services
-# collapsItems['collapsCat-13:2']
-
-# College of Education
-# collapsItems['collapsCat-4271:2']
-# College of Computing & Informatics
-# collapsItems['collapsCat-1914:2']
-
-# College of Arts + Architecture
-
-# collapsItems['collapsCat-2097:2']
-
-# Belk College of Business
-
-# collapsItems['collapsCat-48:2']
+#filtered_links = filter_visited()
+# to query information from the website with a stop condition
+links = pd.read_csv('Production/links.csv').head(100)    
+filtered_links =  links['links'].tolist()
+get_all_links(filtered_links, 5)
 
