@@ -19,11 +19,7 @@ Miguel Morel
                     </h4>
 
                     
-----
-<h2> <strong> Screenshots of viualization </strong></h2>
-<p align="center">
-<img src="https://cdn.ttgtmedia.com/rms/onlineImages/software_quality-agile_software_dev_cycle_mobile.jpg" width="60%" title="Visualization" width="45%">
-</p>
+
 
 
  <table   align="center"   border="1" width = "100%">                    <tr>             <td>                <table border = "1" width = "100%">                   <tr>                      <th>🎁 Task⭐</th>                      <th>📬 Framework📬</th>                   </tr>                   <tr>                      <td>Step 1: Design and Planning</td>                      <td><a href="https://www.atlassian.com/agile">Agile</a></td>                   </tr>                   <tr>                      <td>Step 2: Building Back-end </td>                      <td><a href="https://www.python.org/">Python</a></td>   
@@ -36,3 +32,9 @@ Miguel Morel
          </tr>      
  </tr>
  </tr>                </table>             </td>          </tr>                 </table>
+
+----
+<h2> <strong> Screenshots of viualization </strong></h2>
+<p align="center">
+<img src="https://github.com/MurtadhaM/ITSC-4155/raw/main/logs/1.png" width="60%" title="Visualization" width="45%">
+</p>
