@@ -22,7 +22,7 @@ import pandas as pd
 
 # a master array to store all the staff members
 All_STAFF_INFOMATION = []
-TOR_FLAG = False
+TOR_FLAG = True
 
 # first start tor service on port 9050 by running the command:
 # tor SocksPort 9050
@@ -66,7 +66,7 @@ people = []
 urls = pd.read_csv('links_data_filtered.csv')['links'].dropna().tolist()
 UNCC = {'Belk College of Business': {}, 'College of Arts + Architecture': {}, 'College of Computing & Informatics': {}, 'College of Education': {}, 'College of Health & Human Services': {}, 'College of Liberal Arts & Sciences': {}, 'Lee College of Engineering': {}}
 UNCC['Belk College of Business'] = {'Business Info Systems/Operations': {}, 'Economics': {}, 'Finance': {}, 'Management': {}, 'Marketing': {}, 'Turner School of Accountancy':{}}
-UNCC['College of Arts + Architecture'] = {'Art & Art History': {}, 'Dance': {}, 'Music': {}, 'Performing Arts Services': {}, 'School of Architecture': {}, 'TheatreBrook Muller':{}}
+UNCC['College of Arts + Architecture'] = {'Art & Art History': {}, 'Dance': {}, 'Music': {}, 'Performing Arts Services': {}, 'School of Architecture': {}, 'Theatre':{}}
 UNCC['College of Computing & Informatics'] = {'Bioinformatics and Genomics' : {}, 'Bioinformatics Research Center': {}, 'Computer Science': {}, 'Software & Information Systems':{}, 'School of Data Science (SDS)': {}}
 UNCC['College of Education'] = {'Counseling': {}, 'Ctr For STEM Education': {}, 'Educational Leadership': {}, 'Middle Grades Secondary & K-12': {}, 'Reading & Elementary ED': {}, 'School & Community Partnerships': {}, 'Special Ed & Child Dev':{}}
 UNCC['College of Health & Human Services'] = {'Kinesiology': {}, 'Public Health Sciences': {}, 'School of Nursing': {}, 'School of Social Work':{}}
@@ -136,6 +136,7 @@ class Person :
     def get_info(self):
         url = self.link
         # making a request to the website
+        requests = get_tor_session()
         response = requests.get(url)
         # saving the log file
         soup = BeautifulSoup(response.text , 'html.parser')

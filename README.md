@@ -10,9 +10,9 @@
 Murtadha Marzouq
 </h4>
 <h4 align="center">
-Migyel Morel
+Miguel Morel
 </h4><h4 align="center">Willis Rieid</h4><h4 align="center">
-                    Ryan Hall 
+                    Ryan Hall
 </h4>
 <h4 align="center">
                     Seth Adams
@@ -22,7 +22,7 @@ Migyel Morel
 ----
 <h2> <strong> Screenshots of viualization </strong></h2>
 <p align="center">
-<img src="https://cdn.ttgtmedia.com/rms/onlineImages/software_quality-agile_software_dev_cycle_mobile.jpg" width="60%" title="Visualization" width="45%">     
+<img src="https://cdn.ttgtmedia.com/rms/onlineImages/software_quality-agile_software_dev_cycle_mobile.jpg" width="60%" title="Visualization" width="45%">
 </p>
 
 
