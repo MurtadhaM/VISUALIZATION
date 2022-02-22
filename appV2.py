@@ -310,6 +310,3 @@ start()
 #print([UNCC])
 
 # saving the people to a json file
-with open('staff_dataV2.json', 'w') as f:
-
-        f.write(json.dumps([people]))
