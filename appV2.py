@@ -13,6 +13,7 @@ import pandas as pd
 # setting up the session (visited urls )  -- Completed
 
 
+
 # Setting up variables to be used in the program
 urls = []
 people = []
