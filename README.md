@@ -55,5 +55,9 @@ Miguel Morel
 ---
 ## Preview
 <p align="center">
-<img src="https://github.com/MurtadhaM/ITSC-4155/raw/main/logs/1.png" width="60%" title="Visualization" width="45%">
+<img src="https://github.com/MurtadhaM/ITSC-4155/raw/main/logs/3.png" width="60%" title="Diagram" width="45%">
+</p>
+
+<p align="center">
+<img src="https://github.com/MurtadhaM/ITSC-4155/raw/main/logs/2.png" width="60%" title="Visualization" width="45%">
 </p>
