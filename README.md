@@ -35,8 +35,10 @@ Miguel Morel
 
 ---
 <h2> <strong> How To Run: </strong></h2>
-1. `pip3 install -r requirements.txt`
-2. `python3 app.py`
+ 	```
+$ pip3 install -r requirements.txt
+$ python3 app.py
+ 	```
 
 ---
 <h2> <strong> Screenshots of viualization </strong></h2>
