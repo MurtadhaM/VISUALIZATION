@@ -3,8 +3,18 @@
 
 ---
 
+## Table of Contents
 
-##  <h2 align="center" >Team :</h2>
+- [Team](#Team)
+
+- [Frameworks](#Frameworks)
+
+- [How To Run](#how-to-run)
+
+- [Preview](#preview)
+
+
+## Team
 
 <h4 align="center">
 Murtadha Marzouq
@@ -37,13 +47,13 @@ Miguel Morel
 
 ## How To Run:
 
-$ pip3 install -r requirements.txt
+`pip3 install -r requirements.txt`
 
-$ python3 app.py
+`python3 app.py`
 
 
 ---
-## Screenshots of viualization
+## Preview
 <p align="center">
 <img src="https://github.com/MurtadhaM/ITSC-4155/raw/main/logs/1.png" width="60%" title="Visualization" width="45%">
 </p>
