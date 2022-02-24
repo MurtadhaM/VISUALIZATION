@@ -1,5 +1,3 @@
-# ITSC 4155
-
 <h1 align="center">Software Requirement Group Project</h1>
 ---
 
