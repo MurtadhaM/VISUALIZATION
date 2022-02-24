@@ -4,7 +4,7 @@
 ---
 
 
-  <h2 align="center" >Team :</h2>
+##  <h2 align="center" >Team :</h2>
 
 <h4 align="center">
 Murtadha Marzouq
@@ -21,7 +21,7 @@ Miguel Morel
                     
 
 
-
+## Frameworks
  <table   align="center"   border="1" width = "100%">                    <tr>             <td>                <table border = "1" width = "100%">                   <tr>                      <th>🎁 Task⭐</th>                      <th>📬 Framework📬</th>                   </tr>                   <tr>                      <td>Step 1: Design and Planning</td>                      <td><a href="https://www.atlassian.com/agile">Agile</a></td>                   </tr>                   <tr>                      <td>Step 2: Building Back-end </td>                      <td><a href="https://www.python.org/">Python</a></td>
  <tr>
  <td> Step 3: Data analysis and visualization</td>
@@ -34,14 +34,16 @@ Miguel Morel
  </tr>                </table>             </td>          </tr>                 </table>
 
 ---
-<h2> <strong> How To Run: </strong></h2>
- 	```
+
+## How To Run:
+
 $ pip3 install -r requirements.txt
+
 $ python3 app.py
- 	```
+
 
 ---
-<h2> <strong> Screenshots of viualization </strong></h2>
+## Screenshots of viualization
 <p align="center">
 <img src="https://github.com/MurtadhaM/ITSC-4155/raw/main/logs/1.png" width="60%" title="Visualization" width="45%">
 </p>
