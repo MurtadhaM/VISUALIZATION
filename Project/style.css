@@ -1,0 +1,48 @@
+*{
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-family: big john;
+    width: 100%;
+    height: 100vh;
+}
+
+h2{
+    font-size: 60px;
+    background-color: #eee;
+    padding: 8px 24px;
+    border-radius: 16px;
+}
+
+div:nth-child(1){
+   /* background-image: url(img/uncc.png);*/
+    background:  rgb(196, 244, 196);
+    background-size: cover;
+}
+div:nth-child(2){
+   /* background-image: url(img/uncc.png);*/
+   background:  rgb(214, 247, 214);
+    background-size: cover;
+}
+div:nth-child(3){
+    /* background-image: url(img/uncc.png);*/
+    background:  beige;
+    background-size: cover;
+}
+div:nth-child(4){
+    background:  green;
+   /* background-image: url(img/uncc.png);*/
+    background-size: cover;
+}
+div:nth-child(5){
+    background:  green;
+   /* background-image: url(img/uncc.png);*/
+    background-size: cover;
+}
