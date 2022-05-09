@@ -1,5 +1,23 @@
-<h1 align="center">Software Requirement Group Project</h1>
----
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="https://raw.githubusercontent.com/HullRyan/CapstoneFrontEnd/main/public/logos/logo.png" alt="Logo">
+  </a>---
+  <p align="center">
+    UNC at Charlotte - Faculty Connections & Google Scholar
+    <br/>
+    Scraping and Data Visualization
+    <br />
+    <a href="https://capstone-front-end-lime.vercel.app/">View Live Project</a>
+    <br />
+    <br />
+    This repository holds the Front-End of our Capstone Project.
+    <br />
+To see the front-end led by <a href="https://github.com/HullRyan/">Ryan Hull</a>,
+please visit the <a href="https://github.com/HullRyan/CapstoneFrontEnd">Front-End repository</a>.
+  </p>
+</div>
 
 ## Table of Contents
 
@@ -26,7 +44,9 @@ Miguel Morel
                     Seth Adams
                     </h4>
 
-                    
+<p align="center">
+<img src="https://github.com/HullRyan/CapstoneFrontEnd/raw/main/public/images/home-screenshot.png" width="100%" title="Team" width="75%">
+</p>
 
 
 ## Frameworks
@@ -42,7 +62,22 @@ Miguel Morel
  </tr>                </table>             </td>          </tr>                 </table>
 
 ---
+### Built With
 
+#### Front-End
+
+- [Next.js](https://nextjs.org/)
+- [React.js](https://reactjs.org/)
+- [Apache ECharts](https://echarts.apache.org/en/index.html/)
+- [Echarts-for-react](https://www.npmjs.com/package/echarts-for-react/)
+- [React Icons](https://react-icons.github.io/react-icons/)
+
+#### Back-End
+
+- [Python](https://www.python.org/)
+- [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/)
+- [Pandas](https://pandas.pydata.org/)
+- [Scholarly](https://scholarly.readthedocs.io/en/stable/quickstart.html)
 ## How To Run:
 
 `pip3 install -r requirements.txt`
@@ -53,9 +88,15 @@ Miguel Morel
 ---
 ## Preview
 <p align="center">
-<img src="https://github.com/MurtadhaM/ITSC-4155/raw/main/logs/3.png" width="60%" title="Diagram" width="45%">
+<img src="https://github.com/HullRyan/CapstoneFrontEnd/raw/main/public/images/search-screenshot.png" width="60%" title="Diagram" width="45%">
 </p>
 
 <p align="center">
-<img src="https://github.com/MurtadhaM/ITSC-4155/raw/main/logs/2.png" width="60%" title="Visualization" width="45%">
+<img src="https://github.com/HullRyan/CapstoneFrontEnd/raw/main/public/images/charts-screenshot.png" width="80%" title="Visualization" width="45%">
 </p>
+
+
+
+## License
+
+Distributed under the MIT License
