@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://capstone-front-end-lime.vercel.app/">
     <img src="https://raw.githubusercontent.com/HullRyan/CapstoneFrontEnd/main/public/logos/logo.png" alt="Logo">
   </a>---
   <p align="center">
