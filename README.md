@@ -24,12 +24,6 @@
         </a>
       </td>
       <td>
-       <td>
-        <a href="">
-          <img src="https://github.com/MurtadhaM/CV/blob/main/Proposal/images/Sam.png?raw=true"  alt="Sam Aldehayyat" />
-        </a>
-      </td>
-      <td>
         <a href="">
           <img src="https://capstone-front-end-lime.vercel.app/_next/image?url=%2FTeamPhotos%2FRyan_Hull.jpeg&w=384&q=75" alt="Ryan Hull" />
         </a>
