@@ -1,9 +1,13 @@
-<!-- PROJECT LOGO -->
+<!-- PROJECT Gemini -->
+
 <br />
 <div align="center">
   <a href="https://capstone-front-end-lime.vercel.app/">
     <img src="https://raw.githubusercontent.com/HullRyan/CapstoneFrontEnd/main/public/logos/logo.png" alt="Logo">
-  </a>---
+  </a>
+
+---
+
 
 ## Team
 <table center>
@@ -13,7 +17,7 @@
       <th align=center>Ryan Hull</th>
       <th>Miguel Morel</th>
       <th>Seth Adams</th>
-      <th><a>Willis Ried</a></th>
+      <th>Willis Ried</th>
     </tr>
   </thead>
   <tbody >
